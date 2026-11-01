@@ -1,0 +1,7 @@
+feature_type	name	start	end
+KH_domain	KH 1	186	253
+KH_domain	KH 2	276	345
+KH_domain	KH 3	457	521
+UniProt_disordered_region	disordered_1	1	107
+UniProt_disordered_region	disordered_2	158	181
+UniProt_disordered_region	disordered_3	370	431

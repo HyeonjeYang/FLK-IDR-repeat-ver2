@@ -1,0 +1,3 @@
+species	accession	repeated_8mer	distinct_residue_types	starts_1based	start_spacing_aa
+Gossypium raimondii	XP_012492805.1	ANLEHIAN	6	44;62;80	18;18
+Malus domestica	XP_008350637.2	ALAQFQAQ	4	82;94;106	12;12

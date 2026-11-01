@@ -1,0 +1,33 @@
+window	null_model	phase_offset	T8_value	n_permutations
+primary_1_150	global		1	999807
+primary_1_150	global		2	179
+primary_1_150	global		3	9
+primary_1_150	global		4	4
+primary_1_150	global		6	1
+primary_1_150	segmental	0.0	1	999778
+primary_1_150	segmental	0.0	2	217
+primary_1_150	segmental	0.0	3	4
+primary_1_150	segmental	0.0	5	1
+primary_1_150	segmental	5.0	1	999704
+primary_1_150	segmental	5.0	2	278
+primary_1_150	segmental	5.0	3	16
+primary_1_150	segmental	5.0	4	2
+primary_1_150	segmental	10.0	1	999720
+primary_1_150	segmental	10.0	2	257
+primary_1_150	segmental	10.0	3	19
+primary_1_150	segmental	10.0	4	3
+primary_1_150	segmental	10.0	5	1
+primary_1_150	segmental	15.0	1	999745
+primary_1_150	segmental	15.0	2	243
+primary_1_150	segmental	15.0	3	10
+primary_1_150	segmental	15.0	4	1
+primary_1_150	segmental	15.0	5	1
+primary_1_150	segmental	20.0	1	999818
+primary_1_150	segmental	20.0	2	176
+primary_1_150	segmental	20.0	3	5
+primary_1_150	segmental	20.0	4	1
+sensitivity_1_107	global		1	999975
+sensitivity_1_107	global		2	25
+sensitivity_1_182	global		1	999893
+sensitivity_1_182	global		2	106
+sensitivity_1_182	global		4	1

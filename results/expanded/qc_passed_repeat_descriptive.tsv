@@ -1,0 +1,27 @@
+species	accession	pre_KH1_length	LEPQQYEV_exact_copies	LEPQQYEV_within_3_substitutions_nonoverlap	LEPQQYEV_near_windows	T8_exact_overlapping	T8_exact_nonoverlapping	best_exact_8mer	best_1_mismatch_family_nonoverlapping
+Ananas comosus	XP_020095789.1	97	0	0		2	2	EEPVEDTN	2
+Asparagus officinalis	XP_020258475.1	97	0	0		2	1	AGVENDMA	2
+Beta vulgaris subsp. vulgaris	XP_010675060.1	149	0	0		1	1	ADNGTNGL	1
+Brachypodium distachyon	XP_003562255.1	112	0	0		1	1	AEAQYNEE	2
+Brassica oleracea var. oleracea	XP_013584889.1	124	0	1	52:LEPHQYQP:3	1	1	AEDQQNFV	1
+Carica papaya	XP_088078000.1	94	0	0		2	2	DQLEDQLQ	3
+Chenopodium quinoa	XP_021773195.1	148	0	0		1	1	AAGAGVEK	1
+Citrus sinensis	XP_006487774.2	128	0	0		2	1	DHVPEDHV	3
+Cucumis sativus	XP_004139248.1	83	0	0		1	1	ADVEQNYT	1
+Daucus carota subsp. sativus	XP_017236828.1	121	0	0		2	1	GVPGTDGV	3
+Eucalyptus grandis	XP_010024999.2	91	0	0		1	1	AAAAAEKR	1
+Gossypium raimondii	XP_012492805.1	149	0	0		3	3	ANLEHIAN	5
+Helianthus annuus	XP_022042441.1	75	0	0		1	1	AAAAAEGV	1
+Hordeum vulgare subsp. vulgare	XP_044980298.1	189	0	0		1	1	AAASSPPL	1
+Lactuca sativa	XP_023752686.1	111	0	0		1	1	AEVDKSTS	1
+Malus domestica	XP_008350637.2	155	0	0		3	3	ALAQFQAQ	4
+Nicotiana tabacum	XP_016462448.2	96	0	0		4	2	QEQEQEQE	3
+Olea europaea var. sylvestris	XP_022876622.1	76	0	0		2	1	EQEQEQEQ	1
+Populus trichocarpa	XP_006382821.3	132	0	0		1	1	AADHGLDH	2
+Setaria italica	XP_004982386.1	117	0	0		1	1	AGHDDGGM	1
+Solanum lycopersicum	XP_004230074.1	104	0	0		2	2	QEQEQEQE	4
+Sorghum bicolor	XP_002466785.2	269	0	0		1	1	AAPPADSG	1
+Tarenaya hassleriana	XP_010550907.1	161	0	3	4:AEPQQGFV:3;51:LEPQQYED:1;62:LDYQQYQV:3	1	1	ADQEGIPE	1
+Theobroma cacao	XP_007030532.3	101	0	0		2	1	EPNLNLEP	3
+Triticum aestivum	XP_044386970.1	238	0	0		1	1	AAAALLVY	1
+Zea mays	NP_001359130.1	119	0	0		1	1	ADSYQEEQ	1

@@ -1,0 +1,21 @@
+[project]
+name = "flk-repeat"
+version = "0.1.0"
+description = "Evolutionary conservation and sequence grammar of the triplicated LEPQQYEV repeat in the FLK N-terminal IDR"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "matplotlib>=3.9",
+    "scipy>=1.10",
+    "tqdm>=4.65",
+    "biopython>=1.84",
+    "pyfamsa>=0.5.3",
+    "requests>=2.31",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

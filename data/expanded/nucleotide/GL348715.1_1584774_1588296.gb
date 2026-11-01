@@ -1,0 +1,153 @@
+LOCUS       GL348715                3523 bp    DNA     linear   CON 25-JUL-2016
+DEFINITION  Arabidopsis lyrata subsp. lyrata unplaced genomic scaffold
+            ARALYscaffold_3, whole genome shotgun sequence.
+ACCESSION   GL348715 REGION: 1584774..1588296
+VERSION     GL348715.1
+DBLINK      BioProject: PRJNA41137
+            BioSample: SAMN02981250
+KEYWORDS    WGS.
+SOURCE      Arabidopsis lyrata subsp. lyrata
+  ORGANISM  Arabidopsis lyrata subsp. lyrata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 3523)
+  AUTHORS   Bakker,E., Bergelson,J., Cheng,J.F., Clark,R.M., Fawcett,J.,
+            Gaut,B., Grigoriev,I., Gundlach,H., Guo,Y., Haberer,G.,
+            Hollister,J., Hu,T.T., Mayer,K.F.X., Nasrallah,J., Nordborg,M.,
+            Otillar,R., Pattyn,P., Schmutz,J., Spannagl,M., van de Peer,Y.,
+            Wang,X., Weigel,D. and Yang,L.
+  TITLE     The basis of rapid genome size change in Arabidopsis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3523)
+  AUTHORS   Ottilar,R., Schmutz,J., Salamov,A., Cheng,J.F., Lucas,S.,
+            Pitluck,S., Gundlach,H., Guo,Y., Haberer,G., Nasrallah,J.,
+            Mayer,K.F.X., van de Peer,Y., Weigel,D. and Grigoriev,I.V.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2009) US DOE Joint Genome Institute, 2800
+            Mitchell Drive, Walnut Creek, CA 94598-1698, USA
+COMMENT     URL -- http://www.jgi.doe.gov/Alyrata
+            JGI Project ID: 4992920
+            The strain MN47 was provided by June Nasrallah and is available
+            from the Arabidopsis Biological Stock Center at Ohio State (ABRC)
+            The DNA was prepared by Yalong Guo (ya-long.guo@tuebingen.mpg.de)
+            Contacts: Detlef Weigel, MPI for Developmental Biology, Tubingen,
+            Germany (weigel@weigelworld.org)
+                      Igor Grigoriev, DOE Joint Genome Institute
+            (ivgrigoriev@lbl.gov)
+            Assembly and annotation done by JGI.
+            The JGI and collaborators endorse the principles for the
+            distribution and use of large scale sequencing data adopted by the
+            larger genome sequencing community and urge users of this data to
+            follow them. It is our intention to publish the work of this
+            project in a timely fashion and we welcome collaborative
+            interaction on the project and analysis.
+            (http://www.genome.gov/page.cfm?pageID=10506376).
+            
+            ##Metadata-START##
+            Organism Display Name :: Arabidopsis lyrata subsp. lyrata
+            GOLD Stamp ID         :: Gi02457
+            Assembly Name         :: v.1.0
+            Assembler             :: Arachne
+            Sequencing Technology :: Sanger
+            Assembly Coverage     :: 8x
+            ##Metadata-END##
+FEATURES             Location/Qualifiers
+     source          1..3523
+                     /organism="Arabidopsis lyrata subsp. lyrata"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="ARALYscaffold_3"
+                     /bio_material="NASC<UK>:donor number MN47"
+                     /db_xref="taxon:81972"
+                     /chromosome="Unknown"
+     gene            complement(<1..>3523)
+                     /locus_tag="ARALYDRAFT_477721"
+     mRNA            complement(join(<1..168,291..488,622..894,980..1128,
+                     1420..1666,2852..>3523))
+                     /locus_tag="ARALYDRAFT_477721"
+                     /product="hypothetical protein"
+     CDS             complement(join(1..168,291..488,622..894,980..1128,
+                     1420..1666,2852..3523))
+                     /locus_tag="ARALYDRAFT_477721"
+                     /note="predicted protein;
+                     GO_function: GO:3676 - nucleic acid binding"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EFH60713.1"
+                     /db_xref="InterPro:IPR004088"
+                     /db_xref="JGIDB:Araly1_477721"
+                     /translation="MAEAEDEQNFVAHNGDQVPAQGLDEVHNGLPYQVHQPYEVSDPI
+                     LEPQQYEVPDQTLEPQQYELPDQTLEPQQYEVQDQLEYQQYQLQDQTHEDVQDQPQDD
+                     LKYQPQDQEPYQLQDEAHDQAQYQAEGEAQDHNGDDVQDKVEDEEGISESLQKSESEE
+                     GATVGGEEKRWPGWPGETVFRMLVPAQKVGSIIGRKGDVIKKIVEETRARIKILDGPP
+                     GTTERAVMVSGKEEPESSLPPSMDGLLRVHMRIVDGLDGEPSQAPPASKVSTRLLVPA
+                     SQAGSLIGKQGGTVKAIQEASACIVRVLGSEDLPVFALQDDRVVEVVGEPTSVHKALE
+                     LIASHLRKFLVDRSIIPFFENQMQKPTRQMDHMPAPHQAWGPPQGHAPSVGGGGYGHN
+                     PPPYMQPPPRHDSYYPPPEMRQPPMEKQPHQGISAYGREPPMNVHVSSAPPMVAQQVT
+                     QQMQIPLSYADAVIGTSGSNISYTRRLSGATVTIQETRGVPGEMTVEVSGTGSQVQTA
+                     MQLIQNFMAEAGAPAPAQPQTVAPEQQGYNPYATHGSVYAAAPTNPPGGYATDYSSGY
+                     GY"
+ORIGIN      
+        1 tcagtaaccg tagcctgagc tgtaatccgt agcgtatcct ccaggcgggt ttgttggagc
+       61 cgctgcgtag actgagccgt gtgttgcgta tgggttatag ccttgctgct cgggtgctac
+      121 agtttgaggt tgtgctggtg ctggcgctcc agcttcagcc atgaagttct gtcataaaac
+      181 acaatcaaca gtcagatttc atcatcaaaa aacaccagct tctgtctcct ttttgcggtt
+      241 ttaaaggaca ctttggttaa gaaatctggt gtgagagaat ataggggtac ctgaataagc
+      301 tgcatagcag tttggacttg tgagccagtt ccgctaacct caacagtcat ttcaccaggt
+      361 actcccctcg tctcctgaat agttactgtt gctccactaa gacgtctagt gtagcttatg
+      421 tttgaacctg atgtcccaat tacagcatca gcataagaaa gtggaatctg catttgctgc
+      481 gtaacttgct gcaaaaacaa acaaatcccc acaccactca gattttcatg tgatatactt
+      541 acatacataa attgcagtag attgaacagt taacttctaa aaattgacta acagaacatg
+      601 ctgcagagat tggcggaata cctgagcgac cattggtggg gctgatgata cgtgcacatt
+      661 cataggaggc tctctaccat atgcagatat accttgatga ggctgtttct ccattggagg
+      721 ttgacgcatc tcaggaggag gatagtaact atcatgtcta ggaggtggtt gcatatatgg
+      781 aggtgggttg tgaccatagc ctcctccacc aacacttggg gcatgacctt gaggaggacc
+      841 ccatgcctga tgtggtgctg gcatatgatc catttggcga gttggctttt gcatctgttt
+      901 aaaacgcaga gtaaagaaaa aattttatag agagataaat aaaaaacatt gccaaagatc
+      961 aaaaggaaca aaagataacc tgattttcaa agaatgggat gatgctacga tcaaccaaga
+     1021 actttcttag atgtgatgca atcagctcca aggctttatg aacacttgtt ggttccccca
+     1081 caacttcaac aactctatcg tcttgaagag caaatacagg caaatcctct aaaaaaatcc
+     1141 tccataaaaa ttttcagtta gaactcccaa tggataagga ataaacgaaa cacacaccaa
+     1201 aacgaaagtt gagattattc agaatataag ccaatctgaa aagttgatgt tgagtatggt
+     1261 tcaagcaaaa tttgcacatg aagataagat acaaaattac ccgtggcctc tatcgctaca
+     1321 aatatgggaa taataggaaa tagtccatag cacaactgaa accaaaaaca caaagcaagg
+     1381 aagaattttt tcagcatgta aattgtgaag agaaggaacc tgatccaaga actctgacta
+     1441 tacaagcgga tgcttcttga atagctttaa ctgttcctcc ctgttttcca atcaaacttc
+     1501 cagcctgaga tgctgggact agtaatcttg ttgacacctt tgaagctgga ggggcttgag
+     1561 aaggttcacc atccaaacca tcaactatcc gcatgtgcac tctaagaagg ccatccatag
+     1621 aaggtggtag agatgattcg ggctcttctt taccagaaac cataacctgc caacaaagac
+     1681 gaaacaagac attaccaaac aactaaaaca tttcacaaac agcgatctta gtttctatac
+     1741 caattattat tttggtgcca tatttctcaa gtcgtaaaga aaattccaaa gaggtacaga
+     1801 cttaaatgca ctttgaccag ttagatgttt atttcctgtt atgatcttca tttaaagttt
+     1861 ttacccatgg tgattaggta atcgcctttt aagatgccat agcagccatt accaatcttc
+     1921 tagactcaaa aaaactcttc atagaagatt tttcatgcaa tcttaaaatt tctctttact
+     1981 taattgttgc ctaaaccata atctcatcgt ccacatactg ttacatccgg ttaagcaggt
+     2041 ccttgcatgc tgcagaaagt ctgcagcaag tctgcagcaa gacatcaatc atccaggtac
+     2101 tgaagttacc agaaagaatg cagagcttca tggcactgag gtttatacaa gaagaatctt
+     2161 gcctattaga taaacttatc agtactttgt agtgctcaag gctgaatcct tgccatctgg
+     2221 ctttggttct tcatatttga gaccttaccg ttgattgatt tgttgccata aaacttgcaa
+     2281 gataaaacct gcacagattc atggtggtca cagcaataaa ggggaaccct actcacatct
+     2341 tatcaacttc gtcgattaac ttcctccttt cacttgaagg aaatgataag cagggctgct
+     2401 ggttactata ctctatatag gtttaattta ctaacatagg tagtttcgct tgatgcctac
+     2461 attcttcaac actttattag cagctcagga tcatatcact cagccacact aaaacacttt
+     2521 tctgacatga ctctgttcat aacttctttg agttgaaggg gtgtgcagtt tcctatctgt
+     2581 ttacttatac atttattaag gtctagggat aactatgcaa aaaggttgcc ttttaactaa
+     2641 aattccatgg ccttttacat gttttaacaa aagctagagc ctgaaaactt tagatcagtg
+     2701 acttatacag ccaaaaagtg tatatattct actatattaa ttttcttata attaggatta
+     2761 tagttttggt tcaagagcat tatttgactc atagctgcaa ctcatataac atgaaatgta
+     2821 aaggcaggga aaaaaagatt aagagactta cagctctttc ggttgtgcct ggaggaccat
+     2881 cgagaatctt tattcgagcc cttgtctcct caactatttt cttaatgaca tcacctttgc
+     2941 gaccaatgat actacccact ttctgtgcag gaaccagcat gcggaagacc gtctctccgg
+     3001 gccatcccgg ccacctcttc tcctcacctc caactgttgc accttcttca gactctgatt
+     3061 tctgtagaga ctcagaaatt ccttcctcat cttctacttt atcttgcaca tcatcaccat
+     3121 tgtgatcttg tgcctcacct tctgcctgat actgggcctg atcatgagcc tcgtcttgta
+     3181 actgatacgg ctcctgatct tgtggctgat attttaggtc atcttgcggc tgatcttgga
+     3241 catcttcatg agtctggtcc tgcaactggt attgttgata ctctaattga tcctgaacct
+     3301 cgtactgctg aggttcaaga gtctgatctg gtagctcgta ctgctgaggt tcaagagtct
+     3361 gatctggtac ctcgtactgc tgaggttcaa gaatcggatc tgatacctcg tatggttggt
+     3421 gaacctggta cggtaaccca ttatgcacct catctaaccc ctgagctggt acctgatctc
+     3481 cattgtgtgc aacaaaattt tgctcatctt cagcttcagc cat
+//
+

@@ -1,0 +1,262 @@
+tip	species	gene_id	is_initial_selected_gene	passes_repeat_region_qc
+XP_006838834.1	Amborella trichopoda	18429485	True	False
+XP_006838533.1	Amborella trichopoda	18429178	False	False
+XP_020095789.1	Ananas comosus	109715271	True	True
+XP_020093279.1	Ananas comosus	109713572	False	False
+XP_020090507.1	Ananas comosus	109711725	False	True
+XP_020094207.1	Ananas comosus	109714155	False	False
+XP_020088381.1	Ananas comosus	109710284	False	False
+XP_020110526.1	Ananas comosus	109725663	False	False
+XP_020258475.1	Asparagus officinalis	109834869	True	True
+XP_020263342.1	Asparagus officinalis	109839324	False	False
+XP_020247416.1	Asparagus officinalis	109825100	False	False
+XP_020268817.1	Asparagus officinalis	109844258	False	False
+XP_020275410.1	Asparagus officinalis	109849929	False	True
+XP_020270796.1	Asparagus officinalis	109845982	False	True
+XP_010675060.1	Beta vulgaris subsp. vulgaris	104891110	True	True
+XP_010669468.2	Beta vulgaris subsp. vulgaris	104886692	False	False
+XP_010696082.2	Beta vulgaris subsp. vulgaris	104908649	False	True
+XP_003562255.1	Brachypodium distachyon	100821573	True	True
+XP_003577794.1	Brachypodium distachyon	100838942	False	True
+XP_014757236.1	Brachypodium distachyon	100825327	False	False
+XP_003573848.1	Brachypodium distachyon	100824409	False	True
+XP_003571781.1	Brachypodium distachyon	100836040	False	False
+XP_010234862.1	Brachypodium distachyon	100833296	False	False
+XP_013584889.1	Brassica oleracea var. oleracea	106293793	True	True
+XP_013593157.1	Brassica oleracea var. oleracea	106301334	False	False
+XP_013599845.1	Brassica oleracea var. oleracea	106307433	False	False
+XP_088078001.1	Carica papaya	110825450	True	True
+XP_021893171.1	Carica papaya	110811097	False	False
+XP_088076846.1	Carica papaya	110807996	False	True
+XP_021773195.1	Chenopodium quinoa	110737134	True	True
+XP_021742192.1	Chenopodium quinoa	110708377	False	True
+XP_021744093.1	Chenopodium quinoa	110710146	False	False
+XP_021729272.1	Chenopodium quinoa	110696295	False	False
+XP_021754650.1	Chenopodium quinoa	110719961	False	True
+XP_021721203.1	Chenopodium quinoa	110688752	False	True
+XP_021720323.1	Chenopodium quinoa	110687974	False	True
+XP_021761915.1	Chenopodium quinoa	110726736	False	True
+XP_006487774.2	Citrus sinensis	102628082	True	True
+XP_027074597.1	Coffea arabica	113698848	True	False
+XP_071936748.1	Coffea arabica	113732615	False	False
+XP_071938886.1	Coffea arabica	140037747	False	False
+XP_027095513.2	Coffea arabica	113715499	False	False
+XP_027071516.1	Coffea arabica	113696282	False	True
+XP_027068102.1	Coffea arabica	113693695	False	True
+XP_071925272.1	Coffea arabica	113714783	False	True
+XP_027091610.2	Coffea arabica	113712401	False	True
+XP_031736962.1	Cucumis sativus	101206130	True	True
+XP_004149510.2	Cucumis sativus	101203592	False	True
+XP_004136236.1	Cucumis sativus	101221201	False	True
+XP_004141829.1	Cucumis sativus	101215447	False	True
+XP_017236828.1	Daucus carota subsp. sativus	108210082	True	True
+XP_017236207.1	Daucus carota subsp. sativus	108209677	False	True
+XP_017248849.1	Daucus carota subsp. sativus	108219827	False	False
+XP_017245642.1	Daucus carota subsp. sativus	108217318	False	False
+XP_063948256.1	Daucus carota subsp. sativus	108218267	False	False
+XP_017242111.1	Daucus carota subsp. sativus	108214559	False	False
+XP_039139804.1	Dioscorea cayenensis subsp. rotundata	120277121	True	False
+XP_039127666.1	Dioscorea cayenensis subsp. rotundata	120263754	False	False
+XP_039121884.1	Dioscorea cayenensis subsp. rotundata	120258509	False	False
+XP_039124288.1	Dioscorea cayenensis subsp. rotundata	120260792	False	False
+XP_010905450.1	Elaeis guineensis	105032648	True	False
+XP_010932391.1	Elaeis guineensis	105053066	False	False
+XP_010933565.1	Elaeis guineensis	105053924	False	True
+XP_010919772.2	Elaeis guineensis	105043778	False	False
+XP_010925948.1	Elaeis guineensis	105048354	False	False
+XP_073108601.1	Elaeis guineensis	105045705	False	False
+XP_010915970.1	Elaeis guineensis	105040917	False	False
+XP_010925966.1	Elaeis guineensis	105048364	False	True
+XP_010915993.1	Elaeis guineensis	105040932	False	True
+XP_010024999.2	Eucalyptus grandis	104415417	True	True
+XP_010048563.1	Eucalyptus grandis	104437325	False	True
+XP_010063658.2	Eucalyptus grandis	104450687	False	True
+XP_010056908.2	Eucalyptus grandis	104444847	False	False
+XP_014627451.1	Glycine max	100808237	True	False
+XP_003521747.1	Glycine max	100793728	False	False
+XP_003521274.1	Glycine max	100813235	False	True
+XP_006588662.1	Glycine max	100818363	False	True
+XP_014627366.1	Glycine max	100799901	False	True
+NP_001388227.1	Glycine max	100819415	False	True
+XP_003542958.1	Glycine max	100802089	False	False
+XP_003546434.1	Glycine max	100815466	False	False
+XP_025982245.1	Glycine max	100807645	False	False
+XP_003533739.1	Glycine max	100817448	False	False
+XP_003534436.1	Glycine max	100787863	False	False
+XP_003529764.1	Glycine max	100806721	False	True
+XP_003531758.1	Glycine max	100811725	False	True
+XP_003522728.1	Glycine max	100777433	False	True
+XP_006581471.1	Glycine max	100785136	False	True
+XP_006593679.1	Glycine max	100784791	False	False
+XP_012492805.1	Gossypium raimondii	105804659	True	True
+XP_012476679.1	Gossypium raimondii	105792587	False	True
+XP_012490664.1	Gossypium raimondii	105803175	False	False
+XP_012446358.1	Gossypium raimondii	105769931	False	False
+XP_052490577.1	Gossypium raimondii	105790166	False	False
+XP_052478573.1	Gossypium raimondii	105776682	False	True
+XP_012462524.1	Gossypium raimondii	105782377	False	False
+XP_022042441.1	Helianthus annuus	110945110	True	True
+XP_021993534.1	Helianthus annuus	110890247	False	True
+XP_022010764.1	Helianthus annuus	110910432	False	False
+XP_022037762.1	Helianthus annuus	110940533	False	False
+XP_021981415.1	Helianthus annuus	110877568	False	False
+XP_021989866.1	Helianthus annuus	110886387	False	True
+XP_022018444.1	Helianthus annuus	110918435	False	False
+XP_044980298.1	Hordeum vulgare subsp. vulgare	123447724	True	True
+XP_044946991.1	Hordeum vulgare subsp. vulgare	123396026	False	True
+XP_044971862.1	Hordeum vulgare subsp. vulgare	123439185	False	True
+XP_044953975.1	Hordeum vulgare subsp. vulgare	123404116	False	True
+XP_044969322.1	Hordeum vulgare subsp. vulgare	123429333	False	False
+XP_044971310.1	Hordeum vulgare subsp. vulgare	123432196	False	False
+XP_018859242.1	Juglans regia	109021136	True	False
+XP_018827207.1	Juglans regia	108995970	False	False
+XP_018836609.1	Juglans regia	109003089	False	True
+XP_018820406.1	Juglans regia	108990782	False	True
+XP_018824685.1	Juglans regia	108994060	False	True
+XP_023752686.1	Lactuca sativa	111901050	True	True
+XP_023733388.1	Lactuca sativa	111881211	False	False
+XP_023766552.1	Lactuca sativa	111915090	False	True
+XP_023748589.1	Lactuca sativa	111896837	False	False
+XP_023732274.1	Lactuca sativa	111880102	False	False
+XP_023762002.1	Lactuca sativa	111910390	False	True
+XP_058107585.1	Magnolia sinica	131251092	True	False
+XP_058078211.1	Magnolia sinica	131226642	False	False
+XP_058104094.1	Magnolia sinica	131248066	False	False
+XP_058068129.1	Magnolia sinica	131217265	False	False
+XP_008350637.2	Malus domestica	103413993	True	True
+XP_008370717.1	Malus domestica	103434184	False	True
+XP_008383382.3	Malus domestica	103446101	False	True
+XP_008388663.1	Malus domestica	103451016	False	True
+XP_028964035.2	Malus domestica	103421754	False	True
+XP_024627026.1	Medicago truncatula	25499691	True	False
+XP_013468559.1	Medicago truncatula	25484325	False	True
+XP_003610050.1	Medicago truncatula	11418634	False	False
+XP_003595075.1	Medicago truncatula	11441151	False	False
+XP_064963969.1	Musa acuminata AAA Group	103983808	True	False
+XP_065007235.1	Musa acuminata AAA Group	135638174	False	False
+XP_009408479.2	Musa acuminata AAA Group	103990910	False	False
+XP_009399371.1	Musa acuminata AAA Group	135581296	False	False
+XP_064944862.1	Musa acuminata AAA Group	135596707	False	True
+XP_009381946.2	Musa acuminata AAA Group	103970040	False	True
+XP_065031331.1	Musa acuminata AAA Group	135653359	False	True
+XP_065018028.1	Musa acuminata AAA Group	135644412	False	True
+XP_009413267.2	Musa acuminata AAA Group	103994604	False	True
+XP_064977164.1	Musa acuminata AAA Group	135619252	False	True
+XP_065009714.1	Musa acuminata AAA Group	135639759	False	False
+XP_009381909.2	Musa acuminata AAA Group	103970009	False	False
+XP_064986623.1	Musa acuminata AAA Group	135625574	False	False
+XP_065027952.1	Musa acuminata AAA Group	135651640	False	False
+XP_065042997.1	Musa acuminata AAA Group	135676100	False	False
+XP_009404085.2	Musa acuminata AAA Group	103987488	False	False
+XP_064985000.1	Musa acuminata AAA Group	135583554	False	False
+XP_065028769.1	Musa acuminata AAA Group	135651989	False	False
+XP_064943061.1	Musa acuminata AAA Group	104001018	False	False
+XP_009404426.2	Musa acuminata AAA Group	103987762	False	False
+XP_065043294.1	Musa acuminata AAA Group	135583537	False	False
+XP_064968621.1	Musa acuminata AAA Group	135583536	False	False
+XP_065042286.1	Musa acuminata AAA Group	135675748	False	False
+XP_065012329.1	Musa acuminata AAA Group	135581618	False	False
+XP_064967620.1	Musa acuminata AAA Group	103986881	False	False
+XP_010278104.2	Nelumbo nucifera	104612405	True	False
+XP_010274156.1	Nelumbo nucifera	104609526	False	False
+XP_010259900.1	Nelumbo nucifera	104599176	False	False
+XP_010273559.1	Nelumbo nucifera	104609054	False	True
+XP_075073843.1	Nicotiana tabacum	107785621	True	True
+XP_016504468.1	Nicotiana tabacum	107822433	False	True
+XP_075100235.1	Nicotiana tabacum	107785154	False	True
+XP_016513880.2	Nicotiana tabacum	107830755	False	True
+XP_075102460.1	Nicotiana tabacum	107813880	False	True
+XP_031474054.1	Nymphaea colorata	116246350	True	False
+XP_031489328.1	Nymphaea colorata	116256915	False	False
+XP_031504745.1	Nymphaea colorata	116267259	False	False
+XP_031505176.1	Nymphaea colorata	116267539	False	False
+XP_031483459.1	Nymphaea colorata	116252950	False	True
+XP_022876623.1	Olea europaea var. sylvestris	111394836	True	True
+XP_022863849.1	Olea europaea var. sylvestris	111383893	False	True
+XP_022856375.1	Olea europaea var. sylvestris	111377494	False	False
+XP_022842475.1	Olea europaea var. sylvestris	111366060	False	False
+XP_022857209.1	Olea europaea var. sylvestris	111378261	False	False
+XP_022864638.1	Olea europaea var. sylvestris	111384574	False	False
+XP_022857517.1	Olea europaea var. sylvestris	111378530	False	False
+XP_022868417.1	Olea europaea var. sylvestris	111387995	False	False
+XP_026388096.1	Papaver somniferum	113283147	True	False
+XP_026401056.1	Papaver somniferum	113296910	False	False
+XP_026458177.1	Papaver somniferum	113358737	False	False
+XP_026403669.1	Papaver somniferum	113298978	False	False
+XP_026454249.1	Papaver somniferum	113355569	False	True
+XP_026389661.1	Papaver somniferum	113284422	False	True
+XP_026446805.1	Papaver somniferum	113347374	False	False
+XP_026434235.1	Papaver somniferum	113331812	False	False
+XP_020578295.1	Phalaenopsis equestris	110023310	True	False
+XP_020592636.1	Phalaenopsis equestris	110033105	False	False
+XP_020586197.1	Phalaenopsis equestris	110028619	False	True
+XP_020588445.1	Phalaenopsis equestris	110030188	False	False
+XP_020582267.1	Phalaenopsis equestris	110025911	False	True
+XP_020580840.1	Phalaenopsis equestris	110024973	False	False
+XP_020576414.1	Phalaenopsis equestris	110021996	False	True
+XP_006382821.3	Populus trichocarpa	18098996	True	True
+XP_002319087.3	Populus trichocarpa	7487684	False	True
+XP_024446289.1	Populus trichocarpa	18107551	False	False
+XP_006382190.1	Populus trichocarpa	18100778	False	False
+XP_024444670.1	Populus trichocarpa	7495986	False	False
+XP_006384312.3	Populus trichocarpa	7463046	False	False
+XP_006378863.1	Populus trichocarpa	18102806	False	True
+XP_004982386.1	Setaria italica	101773775	True	True
+XP_004963084.2	Setaria italica	101760669	False	True
+XP_004983623.1	Setaria italica	101764866	False	False
+XP_004983178.1	Setaria italica	101782001	False	False
+XP_004957252.1	Setaria italica	101754802	False	True
+XP_014660042.1	Setaria italica	101781194	False	False
+XP_004965446.1	Setaria italica	101764732	False	True
+XP_004967367.1	Setaria italica	101753678	False	False
+XP_004230074.1	Solanum lycopersicum	101254532	True	True
+XP_004242353.1	Solanum lycopersicum	101258566	False	True
+XP_010326440.1	Solanum lycopersicum	101245397	False	True
+XP_004242801.3	Solanum lycopersicum	101254606	False	False
+XP_002466785.2	Sorghum bicolor	8062477	True	True
+XP_002467474.1	Sorghum bicolor	8058065	False	False
+XP_021314432.1	Sorghum bicolor	8055069	False	True
+XP_002467250.1	Sorghum bicolor	8059631	False	False
+XP_002457055.1	Sorghum bicolor	8078086	False	True
+XP_021305112.1	Sorghum bicolor	8073044	False	True
+XP_010550908.1	Tarenaya hassleriana	104821664	True	True
+XP_010519968.1	Tarenaya hassleriana	104799253	False	True
+XP_010536891.1	Tarenaya hassleriana	104811770	False	False
+XP_019058113.1	Tarenaya hassleriana	104813503	False	False
+XP_010550823.1	Tarenaya hassleriana	104821601	False	True
+XP_007030532.3	Theobroma cacao	18600160	True	True
+XP_007011539.3	Theobroma cacao	18587600	False	False
+XP_017975363.1	Theobroma cacao	18601548	False	False
+XP_044386970.1	Triticum aestivum	123110499	True	True
+XP_044364713.1	Triticum aestivum	123086923	False	True
+XP_044395258.1	Triticum aestivum	123119504	False	True
+XP_044373595.1	Triticum aestivum	123096066	False	True
+XP_044404134.1	Triticum aestivum	123128241	False	False
+XP_044331310.1	Triticum aestivum	123052249	False	False
+XP_044418370.1	Triticum aestivum	123143497	False	True
+XP_044407646.1	Triticum aestivum	123131973	False	True
+XP_044411226.1	Triticum aestivum	123136017	False	True
+XP_044448979.1	Triticum aestivum	123180875	False	False
+XP_044321930.1	Triticum aestivum	123043516	False	False
+XP_044394566.1	Triticum aestivum	123118996	False	False
+XP_044326248.1	Triticum aestivum	123046870	False	False
+XP_044449338.1	Triticum aestivum	123181160	False	False
+XP_010660122.1	Vitis vinifera	100242733	True	False
+XP_010651947.1	Vitis vinifera	100266515	False	False
+XP_002264417.1	Vitis vinifera	100261643	False	True
+XP_019074707.1	Vitis vinifera	100242157	False	False
+XP_002264125.1	Vitis vinifera	100251267	False	True
+XP_020408993.1	Zea mays	100285239	True	True
+NP_001353990.1	Zea mays	100282270	False	True
+NP_001148766.2	Zea mays	100282383	False	False
+NP_001149906.2	Zea mays	100283534	False	False
+XP_008681057.1	Zea mays	100192689	False	True
+NP_001130567.1	Zea mays	100191666	False	False
+XP_008654994.1	Zea mays	100193713	False	False
+XP_008659566.1	Zea mays	103638431	False	True
+NP_001151982.1	Zea mays	100285619	False	True
+Q9SR13	Arabidopsis thaliana	FLK	False	False
+Q9SZH4	Arabidopsis thaliana	PEP	False	False
+Q9LZ82	Arabidopsis thaliana	BTR1	False	False
+F4KDN0	Arabidopsis thaliana	HEN4	False	False
+Q8W4B1	Arabidopsis thaliana	RCF3	False	False

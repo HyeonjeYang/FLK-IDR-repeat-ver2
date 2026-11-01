@@ -1,0 +1,152 @@
+LOCUS       NM_001337536            2555 bp    mRNA    linear   PLN 20-OCT-2022
+DEFINITION  Arabidopsis thaliana RNA-binding KH domain-containing protein
+            (FLK), mRNA.
+ACCESSION   NM_001337536
+VERSION     NM_001337536.1
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 2555)
+  AUTHORS   Salanoubat,M., Lemcke,K., Rieger,M., Ansorge,W., Unseld,M.,
+            Fartmann,B., Valle,G., Blocker,H., Perez-Alonso,M., Obermaier,B.,
+            Delseny,M., Boutry,M., Grivell,L.A., Mache,R., Puigdomenech,P., De
+            Simone,V., Choisne,N., Artiguenave,F., Robert,C., Brottier,P.,
+            Wincker,P., Cattolico,L., Weissenbach,J., Saurin,W., Quetier,F.,
+            Schafer,M., Muller-Auer,S., Gabel,C., Fuchs,M., Benes,V.,
+            Wurmbach,E., Drzonek,H., Erfle,H., Jordan,N., Bangert,S.,
+            Wiedelmann,R., Kranz,H., Voss,H., Holland,R., Brandt,P.,
+            Nyakatura,G., Vezzi,A., D'Angelo,M., Pallavicini,A., Toppo,S.,
+            Simionati,B., Conrad,A., Hornischer,K., Kauer,G., Lohnert,T.H.,
+            Nordsiek,G., Reichelt,J., Scharfe,M., Schon,O., Bargues,M.,
+            Terol,J., Climent,J., Navarro,P., Collado,C., Perez-Perez,A.,
+            Ottenwalder,B., Duchemin,D., Cooke,R., Laudie,M., Berger-Llauro,C.,
+            Purnelle,B., Masuy,D., de Haan,M., Maarse,A.C., Alcaraz,J.P.,
+            Cottet,A., Casacuberta,E., Monfort,A., Argiriou,A., flores,M.,
+            Liguori,R., Vitale,D., Mannhaupt,G., Haase,D., Schoof,H., Rudd,S.,
+            Zaccaria,P., Mewes,H.W., Mayer,K.F., Kaul,S., Town,C.D., Koo,H.L.,
+            Tallon,L.J., Jenkins,J., Rooney,T., Rizzo,M., Walts,A.,
+            Utterback,T., Fujii,C.Y., Shea,T.P., Creasy,T.H., Haas,B.,
+            Maiti,R., Wu,D., Peterson,J., Van Aken,S., Pai,G., Militscher,J.,
+            Sellers,P., Gill,J.E., Feldblyum,T.V., Preuss,D., Lin,X.,
+            Nierman,W.C., Salzberg,S.L., White,O., Venter,J.C., Fraser,C.M.,
+            Kaneko,T., Nakamura,Y., Sato,S., Kato,T., Asamizu,E., Sasamoto,S.,
+            Kimura,T., Idesawa,K., Kawashima,K., Kishida,Y., Kiyokawa,C.,
+            Kohara,M., Matsumoto,M., Matsuno,A., Muraki,A., Nakayama,S.,
+            Nakazaki,N., Shinpo,S., Takeuchi,C., Wada,T., Watanabe,A.,
+            Yamada,M., Yasuda,M. and Tabata,S.
+  CONSRTM   European Union Chromosome 3 Arabidopsis Sequencing Consortium;
+            Institute for Genomic Research; Kazusa DNA Research Institute
+  TITLE     Sequence and analysis of chromosome 3 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 408 (6814), 820-822 (2000)
+   PUBMED   11130713
+REFERENCE   2  (bases 1 to 2555)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2555)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (bases 1 to 2555)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            This record is derived from an annotated genomic sequence
+            (NC_003074).
+FEATURES             Location/Qualifiers
+     source          1..2555
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="3"
+                     /ecotype="Columbia"
+     gene            1..2555
+                     /gene="FLK"
+                     /locus_tag="AT3G04610"
+                     /gene_synonym="F7O18.9; F7O18_9; flowering locus KH
+                     domain"
+                     /db_xref="Araport:AT3G04610"
+                     /db_xref="GeneID:819619"
+                     /db_xref="TAIR:AT3G04610"
+     CDS             685..2346
+                     /gene="FLK"
+                     /locus_tag="AT3G04610"
+                     /gene_synonym="F7O18.9; F7O18_9; flowering locus KH
+                     domain"
+                     /codon_start=1
+                     /product="RNA-binding KH domain-containing protein"
+                     /protein_id="NP_001325771.1"
+                     /db_xref="GeneID:819619"
+                     /db_xref="Araport:AT3G04610"
+                     /db_xref="TAIR:AT3G04610"
+                     /translation="MAEAEDQQNFVAHNGDQVPDQGSDELHNGLPYQVHDETLVHQPY
+                     EVEDPILEPQQYEVDDQLEYHQYQLQDQANEDVQDHSQDDLQYQPQNQEQFQLQDEAH
+                     DQAQYQAQGDVQDHNGDEVQDKVEDEEGIPEHLESLQKSEPEEDATVGGEEKRWPGWP
+                     GETVFRMLVPAQKVGSIIGRKGDVIKKIVEETRARIKILDGPPGTTERAVMVSGKEEP
+                     ESSLPPSMDGLLRVHMRIVDGLDGEASQAPPPSKVSTRLLVPASQAGSLIGKQGGTVK
+                     AIQEASACIVRVLGSEDLPVFALQDDRVVEVVGEPTSVHRALELIASHLRKFLVDRSI
+                     IPFFENQMQKPTRQMDHMPPPHQSWGPPQGHAPSVGGGGYGHNPPPYMQPPPRHDSYY
+                     PPPEMRQPPMEKQPHQGISAYGREPPMNVHVSSAPPMVAQQVTQQMQIPLSYADAVIG
+                     TSGSNISYTRRLSGATVTIQETRGVPGEMTVEVSGTGSQVQTAVQLIQNFMAEAGAPA
+                     PAQPQTVAPEQQGYNPYATHGSVYAAAPTNPPGGYATDYSSGYGY"
+ORIGIN      
+        1 agaagctgtt aaaattagaa ggactaaagt gttaataaaa gaaaagttca ctagttgtcg
+       61 atctcaactt taagataatt ttcacccgcc tccattgtta ccggaatctc tctctttctc
+      121 cgccgaactt cttcgaatca agtttccgtt tatcactcta atattgttaa agtttccact
+      181 gataccacgt aatttcactg ggttatcttt aatcctaagt ttaagctttt ggggctatag
+      241 ttctttcttt ttcattgtca attctagggt tcctcgctgg ggtctatatg ttcgctgtgt
+      301 taatttaggg ttttcactag tccgaaaacg atattttcgt gtttcattaa gcttatattt
+      361 ttctttacta actgcctcta gtttatagat gctattttct gcagaataag cttaggctaa
+      421 gttgatacct cttatatgaa gcagctatta ggtgacctag aataatttgt tagattttga
+      481 attttgagca tattattggc gaagctgtta ctttatagat gcaaatgttt taattctagg
+      541 cgttatattt ctttctaaca catgctttat aacaataact tgttgaagga agtgaaatct
+      601 tcaatgaaac tttaactgtt tgtatatgta taacgggact aatgtgtgtt atctggactc
+      661 tgaatttatg tcagcgctct agtcatggct gaagctgaag atcagcaaaa tttcgttgca
+      721 cacaatggag atcaggtacc agatcaaggg tcagatgagt tgcataatgg gttaccgtac
+      781 caggttcatg atgagaccct tgttcaccaa ccatacgagg ttgaagatcc gattcttgaa
+      841 cctcagcagt acgaggttga tgatcagtta gagtatcatc aataccagtt gcaggaccag
+      901 gctaatgaag atgtccaaga tcattcgcaa gatgacctac aatatcagcc acaaaatcag
+      961 gagcagtttc agttacaaga cgaggctcat gatcaggctc agtatcaggc gcaaggtgat
+     1021 gtacaagatc acaatggtga tgaagtgcaa gataaagtag aagatgagga aggaattcct
+     1081 gagcatcttg agtctctaca gaaatcagag cctgaagaag atgcgacagt tggaggtgag
+     1141 gagaagaggt ggccgggatg gcccggagag acggtattcc gtatgctggt tcctgcacag
+     1201 aaagtgggta gcatcattgg tcgcaaaggt gatgtcatta agaaaatagt tgaggagaca
+     1261 agggctcgaa taaagattct cgatggtcct ccaggcacaa cagaaagagc tgttatggtt
+     1321 tctggtaaag aagagcccga atcatctcta ccaccttcta tggatggcct tcttagagtc
+     1381 cacatgcgga tagttgatgg tttggatggt gaagcttctc aagcccctcc gccttcaaag
+     1441 gtgtcaacaa gattactagt cccagcatct caggctggaa gtttgattgg aaaacaggga
+     1501 ggaacagtta aagctattca agaagcatcc gcttgtatag tcagagttct tggatcagag
+     1561 gatttacctg tttttgctct tcaagacgat agggttgttg aagttgtggg ggaaccaaca
+     1621 agtgttcata gagccttgga gctgattgcg tcacatctca gaaagttctt ggttgatcgt
+     1681 agcatcatcc cattctttga aaatcagatg caaaagccaa ctcgccaaat ggaccatatg
+     1741 ccaccaccac accagtcatg gggtcctcct caaggtcatg ccccaagtgt tggtggagga
+     1801 ggctatggtc acaacccacc tccatatatg caaccacctc ctagacatga tagttactat
+     1861 cctcctcctg agatgcgtca acctccaatg gagaaacagc ctcatcaagg tatatctgca
+     1921 tatggtagag agcctcctat gaatgtgcac gtatcatcag ccccaccaat ggtcgctcag
+     1981 caagttacgc agcaaatgca gattccactg tcttatgctg atgctgtaat tgggacgtcg
+     2041 ggttcaaaca taagctacac tagacgtctt agtggagcaa cagtaactat tcaggagacc
+     2101 aggggagtac ctggtgaaat gactgttgag gttagcggaa ctggctcaca agtccaaact
+     2161 gccgtgcagc ttattcagaa cttcatggct gaagctggag cgccggcacc agcacagcct
+     2221 caaactgtag caccagagca gcaaggctat aacccatacg caacacacgg ctcagtttac
+     2281 gcagcggctc caacaaaccc gcctggagga tacgctacgg attacagctc aggctacggt
+     2341 tactgatgaa agattttaag tttctttaga atgttttact agtagttgca agcaagagtg
+     2401 gaaacgctag atgcctaatc gagtatatgt tgttattagc gagcactctg tgtactgaca
+     2461 atcaattatt atatcacttg ttttgagact tcttcatttg tgtactattc ataacattga
+     2521 tctaaccgga aatcttcttt atattcaaaa aaagt
+//
+

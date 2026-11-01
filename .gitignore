@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local writing and rendered output
+*.docx
+manuscript/
+overleaf/
+docs/
+figures/
+*.zip
+
+# Large public-source downloads and regenerable intermediates
+data/expanded/background/
+data/expanded/blast/*.json
+data/expanded/ensembl/*.json
+data/expanded/sequences/*.gp
+data/expanded/structure/
+data/expanded/verification/*.json
+data/expanded/verification/*.gp
+results/expanded/athaliana_idr_background_features.tsv
+results/expanded/*.fasta
+*.log

@@ -1,0 +1,118 @@
+LOCUS       AY070475                2082 bp    mRNA    linear   PLN 26-DEC-2001
+DEFINITION  Arabidopsis thaliana AT3g04610/F7O18_9 mRNA, complete cds.
+ACCESSION   AY070475
+VERSION     AY070475.1
+KEYWORDS    FLI_CDNA.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 2082)
+  AUTHORS   Shinn,P., Chen,H., Cheuk,R., Kim,C.J., Meyers,M.C., Banh,J.,
+            Bowser,L., Carninci,P., Chang,E., Dale,J.M., Goldsmith,A.D.,
+            Hayashizaki,Y., Ishida,J., Jones,T., Kamiya,A., Karlin-Neumann,G.,
+            Kawai,J., Lam,B., Lee,J.M., Lin,J., Miranda,M., Narusaka,M.,
+            Nguyen,M., Onodera,C.S., Palm,C.J., Quach,H.L., Sakurai,T.,
+            Satou,M., Seki,M., Southwick,A., Tang,C.C., Toriumi,M., Wu,H.C.,
+            Yamada,K., Yamamura,Y., Yu,G., Yu,S., Shinozaki,K., Davis,R.W.,
+            Theologis,A. and Ecker,J.R.
+  TITLE     Arabidopsis cDNA clones
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2082)
+  AUTHORS   Shinn,P., Chen,H., Cheuk,R., Kim,C.J., Meyers,M.C., Banh,J.,
+            Bowser,L., Carninci,P., Chang,E., Dale,J.M., Goldsmith,A.D.,
+            Hayashizaki,Y., Ishida,J., Jones,T., Kamiya,A., Karlin-Neumann,G.,
+            Kawai,J., Lam,B., Lee,J.M., Lin,J., Miranda,M., Narusaka,M.,
+            Nguyen,M., Onodera,C.S., Palm,C.J., Quach,H.L., Sakurai,T.,
+            Satou,M., Seki,M., Southwick,A., Tang,C.C., Toriumi,M., Wu,H.C.,
+            Yamada,K., Yamamura,Y., Yu,G., Yu,S., Shinozaki,K., Davis,R.W.,
+            Theologis,A. and Ecker,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2001) Salk Institute Genomic Analysis Laboratory
+            (SIGnAL), Plant Biology Laboratory, The Salk Institute for
+            Biological Studies, 10010 N. Torrey Pines Road, La Jolla, CA 92037,
+            USA
+COMMENT     RIKEN Genomic Sciences Center (GSC) members carried out the
+            collection and clustering of RAFL cDNAs (RAFL cDNA : 'RIKEN
+            Arabidopsis Full-Length cDNA') :  Seki,M., Narusaka,M., Ishida,J.,
+            Satou,M., Kamiya,A., Sakurai,T., Carninci,P.,  Kawai,J.,
+            Hayashizaki,Y. and Shinozaki,K.
+            
+            The Salk, Stanford, PGEC (SSP) Consortium members carried out the
+            sequencing and annotation of the RAFL cDNAs: Shinn,P., Chen,H.,
+            Cheuk,R., Kim,C.J.,  Meyers,M.C., Banh,J. Bowser,L., Chang,E.,
+            Dale,J.M., Goldsmith,A.D., Jones,T., Karlin-Neumann,G., Lam,B.,
+            Lee,J.M., Lin,J., Miranda,M., Nguyen,M., Onodera,C.S., Palm,C.J.,
+            Quach,H.L., Southwick,A., Tang,C.C., Toriumi,M., Wu,H.C.,
+            Yamada,K., Yamamura, Y., Yu,G., Yu,S., Davis,R.W.,  Theologis,A.,
+            and Ecker,J.R.
+            
+            Shinn,P. (SSP/Salk) and Seki,M. (RIKEN GSC) contributed equally to
+            this work.  Shinozaki,K. (RIKEN GSC) and Ecker,J.R. (SSP/Salk)
+            contributed equally to this work as PIs.
+FEATURES             Location/Qualifiers
+     source          1..2082
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="3"
+                     /clone="RAFL03-05-K01(R21353)"
+                     /ecotype="Columbia"
+     5'UTR           1..99
+     CDS             100..1833
+                     /note="putative RNA-binding protein"
+                     /codon_start=1
+                     /product="AT3g04610/F7O18_9"
+                     /protein_id="AAL49941.1"
+                     /translation="MAEAEDQQNFVAHNGDQVPDQGSDELHNGLPYQVHDETLVHQPY
+                     EVEDPILEPQQYEVPDPTLEPQQYEVPDQTLEPQQYEVDDQLEYHQYQLQDQANEDVQ
+                     DHSQDDLQYQPQNQEQFQLQDEAHDQAQYQAQGDVQDHNGDEVQDKVEDEEGIPEHLE
+                     SLQKSEPEEDATVGGEEKRWPGWPGETVFRMLVPAQKVGSIIGRKGDVIKKIVEETRA
+                     RIKILDGPPGTTERAVMVSGKEEPESSLPPSMDGLLRVHMRIVDGLDGEASQAPPPSK
+                     VSTRLLVPASQAGSLIGKQGGTVKAIQEASACIVRVLGSEDLPVFALQDDRVVEVVGE
+                     PTSVHRALELIASHLRKFLVDRSIIPFFENQMQKPTRQMDHMPPPHQSWGPPQGHAPS
+                     VGGGGYGHNPPPYMQPPPRHDSYYPPPEMRQPPMEKQPHQGISAYGREPPMNVHVSSA
+                     PPMVAQQVTQQMQIPLSYADAVIGTSGSNISYTRRLSGATVTIQETRGVPGEMTVEVS
+                     GTGSQVQTAVQLIQNFMAEAGAPAPAQPQTVAPEQQGYNPYATHGSVYAAAPTNPPGG
+                     YATDYSSGYGY"
+     3'UTR           1834..2082
+ORIGIN      
+        1 accggaatct ctctctttct ccgccgaact tcttcgaatc aagtttccgt ttatcactct
+       61 aatattgtta aagtttccac tgataccacc gctctagtca tggctgaagc tgaagatcag
+      121 caaaatttcg ttgcacacaa tggagatcag gtaccagatc aagggtcaga tgagttgcat
+      181 aatgggttac cgtaccaggt tcatgatgag acccttgttc accaaccata cgaggttgaa
+      241 gatccgattc ttgaacctca gcagtacgag gtaccagatc cgactcttga accacagcag
+      301 tacgaggtac cagatcagac tcttgaacct cagcagtacg aggttgatga tcagttagag
+      361 tatcatcaat accagttgca ggaccaggct aatgaagatg tccaagatca ttcgcaagat
+      421 gacctacaat atcagccaca aaatcaggag cagtttcagt tacaagacga ggctcatgat
+      481 caggctcagt atcaggcgca aggtgatgta caagatcaca atggtgatga agtgcaagat
+      541 aaagtagaag atgaggaagg aattcctgag catcttgagt ctctacagaa atcagagcct
+      601 gaagaagatg cgacagttgg aggtgaggag aagaggtggc cgggatggcc cggagagacg
+      661 gtattccgta tgctggttcc tgcacagaaa gtgggtagca tcattggtcg caaaggtgat
+      721 gtcattaaga aaatagttga ggagacaagg gctcgaataa agattctcga tggtcctcca
+      781 ggcacaacag aaagagctgt tatggtttct ggtaaagaag agcccgaatc atctctacca
+      841 ccttctatgg atggccttct tagagtccac atgcggatag ttgatggttt ggatggtgaa
+      901 gcttctcaag cccctccgcc ttcaaaggtg tcaacaagat tactagtccc agcatctcag
+      961 gctggaagtt tgattggaaa acagggagga acagttaaag ctattcaaga agcatccgct
+     1021 tgtatagtca gagttcttgg atcagaggat ttacctgttt ttgctcttca agacgatagg
+     1081 gttgttgaag ttgtggggga accaacaagt gttcatagag ccttggagct gattgcgtca
+     1141 catctcagaa agttcttggt tgatcgtagc atcatcccat tctttgaaaa tcagatgcaa
+     1201 aagccaactc gccaaatgga ccatatgcca ccaccacacc agtcatgggg tcctcctcaa
+     1261 ggtcatgccc caagtgttgg tggaggaggc tatggtcaca acccacctcc atatatgcaa
+     1321 ccacctccta gacatgatag ttactatcct cctcctgaga tgcgtcaacc tccaatggag
+     1381 aaacagcctc atcaaggtat atctgcatat ggtagagagc ctcctatgaa tgtgcacgta
+     1441 tcatcagccc caccaatggt cgctcagcaa gttacgcagc aaatgcagat tccactgtct
+     1501 tatgctgatg ctgtaattgg gacgtcgggt tcaaacataa gctacactag acgtcttagt
+     1561 ggagcaacag taactattca ggagaccagg ggagtacctg gtgaaatgac tgttgaggtt
+     1621 agcggaactg gctcacaagt ccaaactgcc gtgcagctta ttcagaactt catggctgaa
+     1681 gctggagcgc cggcaccagc acagcctcaa actgtagcac cagagcagca aggctataac
+     1741 ccatacgcaa cacacggctc agtttacgca gcggctccaa caaacccgcc tggaggatac
+     1801 gctacggatt acagctcagg ctacggttac tgatgaaaga ttttaagttt ctttagaatg
+     1861 ttttactagt agttgcaagc aagagtggaa acgctagatg cctaatcgag tatatgttgt
+     1921 tattagcgag cactctgtgt actgacaatc aattattata tcacttgttt tgagacttct
+     1981 tcatttgtgt actattcata acattgatct aaccggaaat cttctttata ttcaaaaaaa
+     2041 gtaaaaaaaa aaaaaaatgt atggttcatt atcgtgtcct tc
+//
+

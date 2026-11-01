@@ -1,0 +1,2 @@
+gene	reference	genomic_start_1based	genomic_end_1based	intron_nt	transcript_strand_donor	transcript_strand_acceptor	long_protein_aa	short_protein_aa	protein_alignment_deletion_starts_1based	junction_read_support
+AT3G04610	NC_003074.8	1254030	1254101	72	GT	AG	577	553	51;52;53;54;55;56;57;58;59	not_assessed

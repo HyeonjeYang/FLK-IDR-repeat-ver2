@@ -1,0 +1,33 @@
+{
+  "accession": "Q9SR13",
+  "uniprotkb_id": "FLK_ARATH",
+  "protein_name": "Flowering locus K homology domain",
+  "gene": "FLK",
+  "locus": "AT3G04610",
+  "organism": "Arabidopsis thaliana",
+  "taxon_id": 3702,
+  "length_aa": 577,
+  "reviewed": true,
+  "uniprot_entry_version": 152,
+  "uniprot_sequence_version": 1,
+  "uniprot_first_public_date": "2015-03-04",
+  "uniprot_last_annotation_update_date": "2026-06-10",
+  "sequence_sha256_uppercase": "d40cdb258917cfa7faed0c4a198c5a05a235e946960fd3b68498a438dcaa8f21",
+  "source": "UniProtKB REST API (rest.uniprot.org), cached full entry",
+  "cached_record_path": "data/sequence/Q9SR13.json",
+  "disorder_prediction_source": "IUPred2A REST API (iupred2a.elte.hu), 'long' disorder type",
+  "disorder_prediction_cache_path": "data/sequence/Q9SR13_iupred2a.json",
+  "kh_domains_1based_inclusive": [
+    {"name": "KH 1", "start": 186, "end": 253},
+    {"name": "KH 2", "start": 276, "end": 345},
+    {"name": "KH 3", "start": 457, "end": 521}
+  ],
+  "uniprot_disordered_regions_1based_inclusive": [
+    {"start": 1, "end": 107},
+    {"start": 158, "end": 181},
+    {"start": 370, "end": 431}
+  ],
+  "provenance_note": "Sequence and feature annotations were validated by a prior audited repository (see data/provenance/SOURCES.md) and independently re-verified here by recomputing the SHA256 of the cached sequence and re-locating LEPQQYEV occurrences from the raw sequence string, not by trusting this record blindly.",
+  "retrieval_audit_date": "2026-08-25",
+  "retrieval_audit_date_note": "Date is that of the upstream repository's most recent recorded software/data audit (manifest/SOFTWARE_VERSIONS.txt); the original UniProt API retrieval timestamp itself was not separately recorded upstream."
+}

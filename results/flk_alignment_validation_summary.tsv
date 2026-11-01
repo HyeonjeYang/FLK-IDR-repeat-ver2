@@ -1,0 +1,6 @@
+curation_group	n_species	n_repeat_positions_total	n_exact_agreement	n_nonmaterial_difference	n_material_disagreement	n_alignment_sensitive	fraction_exact_agreement
+ALL	21	63	14	29	20	20	0.222
+close_arabidopsis	5	15	10	2	3	3	0.667
+distant_eudicot	4	12	0	10	2	2	0.0
+other_brassicaceae	11	33	4	15	14	14	0.121
+rice_uncertain	1	3	0	2	1	1	0.0

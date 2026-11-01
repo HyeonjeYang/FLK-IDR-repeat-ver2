@@ -1,0 +1,8 @@
+partition	rid	query_accession	database	entrez_query	hitlist_size	expect	matrix	run_date_utc	output_file
+brassicaceae	DDP5VGA9016	Q9SR13	refseq_protein	txid3700[ORGN]	2000	1e-5	BLOSUM62	2026-10-20T11:13:26Z	data/expanded/blast/brassicaceae.json
+monocots	EBAB1ANA014	Q9SR13	refseq_protein	txid4447 [ORGN]	1000	1e-05	BLOSUM62	2026-10-31T08:49:15Z	data/expanded/blast/EBAB1ANA014.json
+eudicots_non_brassicaceae	EBAC6BXD014	Q9SR13	refseq_protein	(txid71240 [ORGN]) NOT (txid3700 [ORGN])	1000	1e-05	BLOSUM62	2026-10-31T08:49:15Z	data/expanded/blast/EBAC6BXD014.json
+other_angiosperms	EBADAZEP016	Q9SR13	refseq_protein	(txid3398 [ORGN]) NOT (txid71240 [ORGN] OR txid4447 [ORGN])	1000	1e-05	BLOSUM62	2026-10-31T08:49:15Z	data/expanded/blast/EBADAZEP016.json
+monocots	EBAV8XBU014	Q9SR13	refseq_protein	txid4447 [ORGN]	5000	1e-05	BLOSUM62	2026-10-31T08:58:58Z	data/expanded/blast/EBAV8XBU014.json
+eudicots_non_brassicaceae	EBAUYMMP016	Q9SR13	refseq_protein	(txid71240 [ORGN]) NOT (txid3700 [ORGN])	5000	1e-05	BLOSUM62	2026-10-31T08:58:58Z	data/expanded/blast/EBAUYMMP016.json
+other_angiosperms	EBATWE2K016	Q9SR13	refseq_protein	(txid3398 [ORGN]) NOT (txid71240 [ORGN] OR txid4447 [ORGN])	5000	1e-05	BLOSUM62	2026-10-31T08:58:58Z	data/expanded/blast/EBATWE2K016.json

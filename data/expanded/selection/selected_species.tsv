@@ -1,0 +1,45 @@
+lineage	order	first_choice	selected_species	used_fallback	reason	n_kh_family_hits
+ANA grade	Amborellales	Amborella trichopoda	Amborella trichopoda	False	sister to all other angiosperms	3
+ANA grade	Nymphaeales	Nymphaea colorata	Nymphaea colorata	False	water lilies	9
+Magnoliids	Laurales	Cinnamomum micranthum f. kanehirae		False	magnoliid	0
+Magnoliids	Magnoliales	Magnolia sinica	Magnolia sinica	False	magnoliid	7
+Monocots	Alismatales	Spirodela polyrhiza		False	early-diverging monocot	0
+Monocots	Dioscoreales	Dioscorea cayenensis subsp. rotundata	Dioscorea cayenensis subsp. rotundata	False	yam	7
+Monocots	Asparagales	Asparagus officinalis	Asparagus officinalis	False	Asparagaceae	7
+Monocots	Asparagales	Phalaenopsis equestris	Phalaenopsis equestris	False	orchid	10
+Monocots	Arecales	Elaeis guineensis	Elaeis guineensis	False	palm	12
+Monocots	Zingiberales	Musa acuminata AAA Group	Musa acuminata AAA Group	False	banana	28
+Monocots	Poales	Ananas comosus	Ananas comosus	False	Bromeliaceae	6
+Monocots	Poales	Brachypodium distachyon	Brachypodium distachyon	False	Poaceae, Pooideae model	6
+Monocots	Poales	Hordeum vulgare subsp. vulgare	Hordeum vulgare subsp. vulgare	False	Poaceae, barley	7
+Monocots	Poales	Triticum aestivum	Triticum aestivum	False	Poaceae, wheat	19
+Monocots	Poales	Zea mays	Zea mays	False	Poaceae, maize	19
+Monocots	Poales	Sorghum bicolor	Sorghum bicolor	False	Poaceae, sorghum	9
+Monocots	Poales	Setaria italica	Setaria italica	False	Poaceae, foxtail millet	10
+Early-diverging eudicots	Ranunculales	Papaver somniferum	Papaver somniferum	False	Ranunculales	10
+Early-diverging eudicots	Proteales	Nelumbo nucifera	Nelumbo nucifera	False	lotus	4
+Caryophyllales	Caryophyllales	Beta vulgaris subsp. vulgaris	Beta vulgaris subsp. vulgaris	False	functional data: BvFLK complements flk	3
+Caryophyllales	Caryophyllales	Chenopodium quinoa	Chenopodium quinoa	False	second Amaranthaceae	12
+Superrosids	Vitales	Vitis vinifera	Vitis vinifera	False	grapevine	6
+Rosids (fabids)	Fabales	Glycine max	Glycine max	False	soybean	20
+Rosids (fabids)	Fabales	Medicago truncatula	Medicago truncatula	False	Medicago	5
+Rosids (fabids)	Cucurbitales	Cucumis sativus	Cucumis sativus	False	cucumber	6
+Rosids (fabids)	Malpighiales	Populus trichocarpa	Populus trichocarpa	False	poplar	14
+Rosids (fabids)	Fagales	Juglans regia	Juglans regia	False	walnut	7
+Rosids (fabids)	Rosales	Malus domestica	Malus domestica	False	apple	8
+Rosids (malvids)	Malvales	Theobroma cacao	Theobroma cacao	False	cacao	4
+Rosids (malvids)	Malvales	Gossypium raimondii	Gossypium raimondii	False	cotton	15
+Rosids (malvids)	Sapindales	Citrus sinensis	Citrus sinensis	False	citrus	2
+Rosids (malvids)	Myrtales	Eucalyptus grandis	Eucalyptus grandis	False	eucalyptus	4
+Rosids (malvids)	Brassicales	Carica papaya	Carica papaya	False	Caricaceae, Brassicales outgroup	4
+Rosids (malvids)	Brassicales	Tarenaya hassleriana	Tarenaya hassleriana	False	Cleomaceae, sister family of Brassicaceae	7
+Asterids	Solanales	Solanum lycopersicum	Solanum lycopersicum	False	tomato	4
+Asterids	Solanales	Nicotiana tabacum	Nicotiana tabacum	False	tobacco	6
+Asterids	Gentianales	Coffea arabica	Coffea arabica	False	coffee	10
+Asterids	Lamiales	Olea europaea var. sylvestris	Olea europaea var. sylvestris	False	olive	10
+Asterids	Apiales	Daucus carota subsp. sativus	Daucus carota subsp. sativus	False	carrot	6
+Asterids	Asterales	Helianthus annuus	Helianthus annuus	False	Asteraceae, sunflower	9
+Asterids	Asterales	Lactuca sativa	Lactuca sativa	False	Asteraceae, lettuce	7
+Brassicaceae	Brassicales	Aethionema arabicum		False	earliest-diverging Brassicaceae lineage	0
+Brassicaceae	Brassicales	Schrenkiella parvula		False	lineage II	0
+Brassicaceae	Brassicales	Brassica oleracea var. oleracea	Brassica oleracea var. oleracea	False	Brassiceae, C genome	3

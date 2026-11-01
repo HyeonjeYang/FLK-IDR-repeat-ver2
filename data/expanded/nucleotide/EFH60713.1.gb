@@ -1,0 +1,103 @@
+LOCUS       EFH60713                 568 aa            linear   PLN 25-JUL-2016
+DEFINITION  hypothetical protein ARALYDRAFT_477721 [Arabidopsis lyrata subsp.
+            lyrata].
+ACCESSION   EFH60713
+VERSION     EFH60713.1
+DBLINK      BioProject: PRJNA41137
+            BioSample: SAMN02981250
+DBSOURCE    accession GL348715.1
+KEYWORDS    .
+SOURCE      Arabidopsis lyrata subsp. lyrata
+  ORGANISM  Arabidopsis lyrata subsp. lyrata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (residues 1 to 568)
+  AUTHORS   Bakker,E., Bergelson,J., Cheng,J.F., Clark,R.M., Fawcett,J.,
+            Gaut,B., Grigoriev,I., Gundlach,H., Guo,Y., Haberer,G.,
+            Hollister,J., Hu,T.T., Mayer,K.F.X., Nasrallah,J., Nordborg,M.,
+            Otillar,R., Pattyn,P., Schmutz,J., Spannagl,M., van de Peer,Y.,
+            Wang,X., Weigel,D. and Yang,L.
+  TITLE     The basis of rapid genome size change in Arabidopsis
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 568)
+  AUTHORS   Ottilar,R., Schmutz,J., Salamov,A., Cheng,J.F., Lucas,S.,
+            Pitluck,S., Gundlach,H., Guo,Y., Haberer,G., Nasrallah,J.,
+            Mayer,K.F.X., van de Peer,Y., Weigel,D. and Grigoriev,I.V.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2009) US DOE Joint Genome Institute, 2800
+            Mitchell Drive, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..568
+                     /organism="Arabidopsis lyrata subsp. lyrata"
+                     /bio_material="NASC<UK>:donor number MN47"
+                     /db_xref="taxon:81972"
+                     /chromosome="Unknown"
+     Protein         1..568
+                     /product="hypothetical protein"
+     Region          <1..>103
+                     /region_name="PRK10263"
+                     /note="DNA translocase FtsK; Provisional"
+                     /db_xref="CDD:236669"
+     Region          177..245
+                     /region_name="KH-I_PEPPER_rpt1_like"
+                     /note="first type I K homology (KH) RNA-binding domain
+                     found in Arabidopsis thaliana RNA-binding KH
+                     domain-containing protein PEPPER and similar proteins;
+                     cd22459"
+                     /db_xref="CDD:411887"
+     Site            order(187,189..191,193..197,200..201,204..205,210..213)
+                     /site_type="other"
+                     /note="putative nucleic acid binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:411887"
+     Region          269..341
+                     /region_name="KH-I_PEPPER_rpt2_like"
+                     /note="second type I K homology (KH) RNA-binding domain
+                     found in Arabidopsis thaliana RNA-binding KH
+                     domain-containing protein PEPPER and similar proteins;
+                     cd22460"
+                     /db_xref="CDD:411888"
+     Site            order(277,279..281,283..287,290..291,294..295,300..303)
+                     /site_type="other"
+                     /note="putative nucleic acid binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:411888"
+     Region          448..516
+                     /region_name="KH-I_PEPPER_like_rpt3"
+                     /note="third type I K homology (KH) RNA-binding domain
+                     found in Arabidopsis thaliana RNA-binding KH
+                     domain-containing protein PEPPER and similar proteins;
+                     cd22461"
+                     /db_xref="CDD:411889"
+     Site            order(458,460..462,464..468,471..472,475..476,481..484)
+                     /site_type="other"
+                     /note="putative nucleic acid binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:411889"
+     CDS             1..568
+                     /locus_tag="ARALYDRAFT_477721"
+                     /coded_by="complement(join(GL348715.1:1584774..1584941,
+                     GL348715.1:1585064..1585261,GL348715.1:1585395..1585667,
+                     GL348715.1:1585753..1585901,GL348715.1:1586193..1586439,
+                     GL348715.1:1587625..1588296))"
+                     /note="predicted protein;
+                     GO_function: GO:3676 - nucleic acid binding"
+                     /db_xref="InterPro:IPR004088"
+                     /db_xref="JGIDB:Araly1_477721"
+ORIGIN      
+        1 maeaedeqnf vahngdqvpa qgldevhngl pyqvhqpyev sdpilepqqy evpdqtlepq
+       61 qyelpdqtle pqqyevqdql eyqqyqlqdq thedvqdqpq ddlkyqpqdq epyqlqdeah
+      121 dqaqyqaege aqdhngddvq dkvedeegis eslqksesee gatvggeekr wpgwpgetvf
+      181 rmlvpaqkvg siigrkgdvi kkiveetrar ikildgppgt teravmvsgk eepesslpps
+      241 mdgllrvhmr ivdgldgeps qappaskvst rllvpasqag sligkqggtv kaiqeasaci
+      301 vrvlgsedlp vfalqddrvv evvgeptsvh kaleliashl rkflvdrsii pffenqmqkp
+      361 trqmdhmpap hqawgppqgh apsvggggyg hnpppymqpp prhdsyyppp emrqppmekq
+      421 phqgisaygr eppmnvhvss appmvaqqvt qqmqiplsya davigtsgsn isytrrlsga
+      481 tvtiqetrgv pgemtvevsg tgsqvqtamq liqnfmaeag apapaqpqtv apeqqgynpy
+      541 athgsvyaaa ptnppggyat dyssgygy
+//
+

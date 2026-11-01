@@ -1,0 +1,21 @@
+lineage	order	species	protein_id	homology_type	target_identity_percent	n_candidates	identity_margin_to_next_qc_candidate	full_length	pre_KH1_length	T8_exact_overlapping	best_exact_8mer	best_8mer_1_mismatch_seed	A8_1_overlapping	best_8mer_1_mismatch_nonoverlapping_copies	best_8mer_2_mismatch_nonoverlapping_copies	LEPQQYEV_family_3_mismatch_nonoverlapping_copies	verification_status
+Monocots	Poales	Ananas comosus	Aco017405.1.mrna1	ortholog_one2one	47.1326	1		558	97	2	EEPVEDTN	EEPVEDTN	2	2	3	0	COMPARA_ONLY_UNVERIFIED
+Monocots	Poales	Brachypodium distachyon	KQK14102	ortholog_one2many	48.8417	3	2.7316000000000003	518	112	1	MEVPEENF	EAQYNEEP	2	2	4	0	COMPARA_ONLY_UNVERIFIED
+Monocots	Poales	Hordeum vulgare subsp. vulgare	HORVU.MOREX.r3.4HG0340920.1	ortholog_one2many	49.4141	3	2.2986999999999966	512	111	1	MDEENFTE	MDEENFTE	1	1	1	0	COMPARA_ONLY_UNVERIFIED
+Monocots	Poales	Triticum aestivum	TraesCS4B02G069700.1	ortholog_one2many	49.9022	9	0.875	511	111	1	MDEENFTE	MDEENFTE	1	1	2	0	COMPARA_ONLY_UNVERIFIED
+Monocots	Poales	Zea mays	Zm00001eb030980_P003	ortholog_one2many	47.8346	4	1.3449999999999989	508	105	1	MDVPVDDP	MDVPVDDP	1	1	1	0	COMPARA_ONLY_UNVERIFIED
+Monocots	Poales	Sorghum bicolor	EES16283	ortholog_one2many	48.5265	3		509	105	1	MDGPVDDP	MDGPVDDP	1	1	2	0	COMPARA_ONLY_UNVERIFIED
+Monocots	Poales	Setaria italica	KQL17063	ortholog_one2many	48.4496	3	0.6317999999999984	516	113	1	MDVPVEDP	MDVPVEDP	1	1	1	0	COMPARA_ONLY_UNVERIFIED
+Caryophyllales	Caryophyllales	Beta vulgaris subsp. vulgaris	KMT13450	ortholog_one2one	56.81	1		558	149	1	MAEAEQGF	MAEAEQGF	1	1	1	0	COMPARA_ONLY_UNVERIFIED
+Caryophyllales	Caryophyllales	Chenopodium quinoa	AUR62001059-RA:cds	ortholog_one2one	57.0652	1		552	148	1	MAEAEQNF	MAEAEQNF	1	1	2	0	COMPARA_ONLY_UNVERIFIED
+Rosids (fabids)	Fabales	Medicago truncatula	RHN49419.1	ortholog_one2one	59.6078	1		510	113	1	MIYYVPVL	MIYYVPVL	1	1	1	0	COMPARA_ONLY_UNVERIFIED
+Rosids (fabids)	Cucurbitales	Cucumis sativus	KGN60787	ortholog_one2one	64.4401	1		509	109	1	MMVCQNQL	MMVCQNQL	1	1	2	0	COMPARA_ONLY_UNVERIFIED
+Rosids (fabids)	Malpighiales	Populus trichocarpa	Potri.013G043000.1.v4.1	ortholog_one2many	62.9981	2	0.42719999999999914	527	130	1	MADVDQGI	MADVDQGI	1	1	4	0	COMPARA_ONLY_UNVERIFIED
+Rosids (fabids)	Rosales	Malus domestica	mRNA:MD04G0195700	ortholog_one2many	53.4921	2	1.5600999999999985	630	227	3	ALAQFQAQ	ALAQFQAQ	4	4	5	0	COMPARA_ONLY_UNVERIFIED
+Rosids (malvids)	Malvales	Theobroma cacao	EOY11034	ortholog_one2one	66.9339	1		499	101	2	NLNLEPNL	NLNLEPNL	4	3	3	0	COMPARA_ONLY_UNVERIFIED
+Rosids (malvids)	Malvales	Gossypium raimondii	XP_012476679.1	ortholog_one2many	65.8103	2	5.142399999999995	506	107	1	MAEVDQSF	NLEQNLNL	2	1	2	0	COMPARA_ONLY_UNVERIFIED
+Rosids (malvids)	Sapindales	Citrus clementina	ESR37218	ortholog_one2one	65.4511	1		521	128	2	VPEDHVPE	VPEDHVPE	4	3	4	0	COMPARA_ONLY_UNVERIFIED
+Rosids (malvids)	Myrtales	Eucalyptus grandis	KCW61577	ortholog_one2many	63.5438	3		491	91	1	MAEVELNL	MAEVELNL	1	1	2	0	COMPARA_ONLY_UNVERIFIED
+Asterids	Lamiales	Olea europaea var. sylvestris	OE9A092828C3	ortholog_one2many	61.5226	4	4.7044	486	88	1	MAEFDPSF	QEQEQEQE	5	2	4	0	COMPARA_ONLY_UNVERIFIED
+Asterids	Asterales	Lactuca sativa	KAJ0209172.1	ortholog_one2one	58.2485	1		491	111	1	MPQARTEY	MPQARTEY	1	1	1	0	COMPARA_ONLY_UNVERIFIED
+Brassicaceae	Brassicales	Brassica oleracea var. oleracea	Bo5g148050.1	ortholog_one2many	86.4706	2		510	124	1	MSDAEDQQ	MSDAEDQQ	1	1	1	1	COMPARA_ONLY_UNVERIFIED

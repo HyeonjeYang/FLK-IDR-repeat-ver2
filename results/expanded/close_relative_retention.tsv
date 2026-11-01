@@ -1,0 +1,4 @@
+species	accession	repeat_differences	repeat_sites	flank_differences	flank_sites	alignment_methods_agree_counts	pairwise_MSA_site_call_differences
+Arabidopsis lyrata	D7L277	1	24	26	126	True	2
+Arabidopsis halleri	A0ACE2D236	1	24	18	126	True	0
+Arabidopsis suecica (divergent copy)	A0A8T2B1P0	0	24	16	126	True	0

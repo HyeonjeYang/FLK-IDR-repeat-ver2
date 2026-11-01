@@ -1,0 +1,1648 @@
+{
+  "entryType": "UniProtKB reviewed (Swiss-Prot)",
+  "primaryAccession": "Q9SR13",
+  "secondaryAccessions": [
+    "Q58T16"
+  ],
+  "uniProtkbId": "FLK_ARATH",
+  "entryAudit": {
+    "firstPublicDate": "2015-03-04",
+    "lastAnnotationUpdateDate": "2026-06-10",
+    "lastSequenceUpdateDate": "2000-05-01",
+    "entryVersion": 152,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 4.0,
+  "organism": {
+    "scientificName": "Arabidopsis thaliana",
+    "commonName": "Mouse-ear cress",
+    "taxonId": 3702,
+    "evidences": [
+      {
+        "evidenceCode": "ECO:0000312",
+        "source": "Proteomes",
+        "id": "UP000006548"
+      }
+    ],
+    "lineage": [
+      "Eukaryota",
+      "Viridiplantae",
+      "Streptophyta",
+      "Embryophyta",
+      "Tracheophyta",
+      "Spermatophyta",
+      "Magnoliopsida",
+      "eudicotyledons",
+      "Gunneridae",
+      "Pentapetalae",
+      "rosids",
+      "malvids",
+      "Brassicales",
+      "Brassicaceae",
+      "Camelineae",
+      "Arabidopsis"
+    ]
+  },
+  "proteinExistence": "1: Evidence at protein level",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000303",
+            "source": "PubMed",
+            "id": "14593172"
+          }
+        ],
+        "value": "Flowering locus K homology domain"
+      },
+      "shortNames": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "14593172"
+            }
+          ],
+          "value": "Flowering locus KH domain"
+        }
+      ]
+    }
+  },
+  "genes": [
+    {
+      "geneName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000303",
+            "source": "PubMed",
+            "id": "14593172"
+          }
+        ],
+        "value": "FLK"
+      },
+      "orderedLocusNames": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000312",
+              "source": "Araport",
+              "id": "AT3G04610"
+            }
+          ],
+          "value": "At3g04610"
+        }
+      ],
+      "orfNames": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000312",
+              "source": "EMBL",
+              "id": "AAF04909.1"
+            }
+          ],
+          "value": "F7O18.9"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "14593172"
+            },
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "19576878"
+            }
+          ],
+          "value": "Positively regulates flowering by repressing FLC expression and post-transcriptional modification"
+        }
+      ],
+      "commentType": "FUNCTION"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "22960247"
+            },
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "25658099"
+            }
+          ],
+          "value": "Interacts with HOS1 (PubMed:22960247). Interacts with HUA1 and HEN4 (PubMed:25658099)"
+        }
+      ],
+      "commentType": "SUBUNIT"
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "15310842"
+              }
+            ],
+            "value": "Nucleus",
+            "id": "SL-0191"
+          }
+        },
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "15310842"
+              }
+            ],
+            "value": "Cytoplasm",
+            "id": "SL-0086"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "14593172"
+            },
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "19576878"
+            }
+          ],
+          "value": "Delayed flowering without a significant effect on the photoperiodic or vernalization responses (PubMed:14593172). The late-flowering phenotype in flk-2 is rescued by the disruption of PEP (pep-2, pep-4) (PubMed:19576878)"
+        }
+      ],
+      "commentType": "DISRUPTION PHENOTYPE"
+    }
+  ],
+  "features": [
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 577,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Flowering locus K homology domain",
+      "featureId": "PRO_0000432400"
+    },
+    {
+      "type": "Domain",
+      "location": {
+        "start": {
+          "value": 186,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 253,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "KH 1",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00117"
+        }
+      ]
+    },
+    {
+      "type": "Domain",
+      "location": {
+        "start": {
+          "value": 276,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 345,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "KH 2",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00117"
+        }
+      ]
+    },
+    {
+      "type": "Domain",
+      "location": {
+        "start": {
+          "value": 457,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 521,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "KH 3",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000255",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00117"
+        }
+      ]
+    },
+    {
+      "type": "Region",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 107,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Disordered",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "SAM",
+          "id": "MobiDB-lite"
+        }
+      ]
+    },
+    {
+      "type": "Region",
+      "location": {
+        "start": {
+          "value": 158,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 181,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Disordered",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "SAM",
+          "id": "MobiDB-lite"
+        }
+      ]
+    },
+    {
+      "type": "Region",
+      "location": {
+        "start": {
+          "value": 370,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 431,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Disordered",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "SAM",
+          "id": "MobiDB-lite"
+        }
+      ]
+    },
+    {
+      "type": "Sequence conflict",
+      "location": {
+        "start": {
+          "value": 26,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 26,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "in Ref. 1; AAX51268/AAX51269",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000305"
+        }
+      ],
+      "alternativeSequence": {
+        "originalSequence": "L",
+        "alternativeSequences": [
+          "V"
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "KW-0963",
+      "category": "Cellular component",
+      "name": "Cytoplasm"
+    },
+    {
+      "id": "KW-0539",
+      "category": "Cellular component",
+      "name": "Nucleus"
+    },
+    {
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "id": "KW-0677",
+      "category": "Domain",
+      "name": "Repeat"
+    },
+    {
+      "id": "KW-0694",
+      "category": "Molecular function",
+      "name": "RNA-binding"
+    },
+    {
+      "id": "KW-0804",
+      "category": "Biological process",
+      "name": "Transcription"
+    },
+    {
+      "id": "KW-0805",
+      "category": "Biological process",
+      "name": "Transcription regulation"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "15911588",
+        "citationType": "journal article",
+        "authors": [
+          "Werner J.D.",
+          "Borevitz J.O.",
+          "Uhlenhaut N.H.",
+          "Ecker J.R.",
+          "Chory J.",
+          "Weigel D."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "15911588"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1534/genetics.104.036533"
+          }
+        ],
+        "title": "FRIGIDA-independent variation in flowering time of natural Arabidopsis thaliana accessions.",
+        "publicationDate": "2005",
+        "journal": "Genetics",
+        "firstPage": "1197",
+        "lastPage": "1207",
+        "volume": "170"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [GENOMIC DNA]",
+        "REVIEW"
+      ],
+      "referenceComments": [
+        {
+          "value": "cv. Landsberg erecta",
+          "type": "STRAIN"
+        },
+        {
+          "value": "cv. Lz-0",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "citation": {
+        "id": "11130713",
+        "citationType": "journal article",
+        "authors": [
+          "Salanoubat M.",
+          "Lemcke K.",
+          "Rieger M.",
+          "Ansorge W.",
+          "Unseld M.",
+          "Fartmann B.",
+          "Valle G.",
+          "Bloecker H.",
+          "Perez-Alonso M.",
+          "Obermaier B.",
+          "Delseny M.",
+          "Boutry M.",
+          "Grivell L.A.",
+          "Mache R.",
+          "Puigdomenech P.",
+          "De Simone V.",
+          "Choisne N.",
+          "Artiguenave F.",
+          "Robert C.",
+          "Brottier P.",
+          "Wincker P.",
+          "Cattolico L.",
+          "Weissenbach J.",
+          "Saurin W.",
+          "Quetier F.",
+          "Schaefer M.",
+          "Mueller-Auer S.",
+          "Gabel C.",
+          "Fuchs M.",
+          "Benes V.",
+          "Wurmbach E.",
+          "Drzonek H.",
+          "Erfle H.",
+          "Jordan N.",
+          "Bangert S.",
+          "Wiedelmann R.",
+          "Kranz H.",
+          "Voss H.",
+          "Holland R.",
+          "Brandt P.",
+          "Nyakatura G.",
+          "Vezzi A.",
+          "D'Angelo M.",
+          "Pallavicini A.",
+          "Toppo S.",
+          "Simionati B.",
+          "Conrad A.",
+          "Hornischer K.",
+          "Kauer G.",
+          "Loehnert T.-H.",
+          "Nordsiek G.",
+          "Reichelt J.",
+          "Scharfe M.",
+          "Schoen O.",
+          "Bargues M.",
+          "Terol J.",
+          "Climent J.",
+          "Navarro P.",
+          "Collado C.",
+          "Perez-Perez A.",
+          "Ottenwaelder B.",
+          "Duchemin D.",
+          "Cooke R.",
+          "Laudie M.",
+          "Berger-Llauro C.",
+          "Purnelle B.",
+          "Masuy D.",
+          "de Haan M.",
+          "Maarse A.C.",
+          "Alcaraz J.-P.",
+          "Cottet A.",
+          "Casacuberta E.",
+          "Monfort A.",
+          "Argiriou A.",
+          "Flores M.",
+          "Liguori R.",
+          "Vitale D.",
+          "Mannhaupt G.",
+          "Haase D.",
+          "Schoof H.",
+          "Rudd S.",
+          "Zaccaria P.",
+          "Mewes H.-W.",
+          "Mayer K.F.X.",
+          "Kaul S.",
+          "Town C.D.",
+          "Koo H.L.",
+          "Tallon L.J.",
+          "Jenkins J.",
+          "Rooney T.",
+          "Rizzo M.",
+          "Walts A.",
+          "Utterback T.",
+          "Fujii C.Y.",
+          "Shea T.P.",
+          "Creasy T.H.",
+          "Haas B.",
+          "Maiti R.",
+          "Wu D.",
+          "Peterson J.",
+          "Van Aken S.",
+          "Pai G.",
+          "Militscher J.",
+          "Sellers P.",
+          "Gill J.E.",
+          "Feldblyum T.V.",
+          "Preuss D.",
+          "Lin X.",
+          "Nierman W.C.",
+          "Salzberg S.L.",
+          "White O.",
+          "Venter J.C.",
+          "Fraser C.M.",
+          "Kaneko T.",
+          "Nakamura Y.",
+          "Sato S.",
+          "Kato T.",
+          "Asamizu E.",
+          "Sasamoto S.",
+          "Kimura T.",
+          "Idesawa K.",
+          "Kawashima K.",
+          "Kishida Y.",
+          "Kiyokawa C.",
+          "Kohara M.",
+          "Matsumoto M.",
+          "Matsuno A.",
+          "Muraki A.",
+          "Nakayama S.",
+          "Nakazaki N.",
+          "Shinpo S.",
+          "Takeuchi C.",
+          "Wada T.",
+          "Watanabe A.",
+          "Yamada M.",
+          "Yasuda M.",
+          "Tabata S."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "11130713"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1038/35048706"
+          }
+        ],
+        "title": "Sequence and analysis of chromosome 3 of the plant Arabidopsis thaliana.",
+        "publicationDate": "2000",
+        "journal": "Nature",
+        "firstPage": "820",
+        "lastPage": "822",
+        "volume": "408"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "cv. Columbia",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 3,
+      "citation": {
+        "id": "27862469",
+        "citationType": "journal article",
+        "authors": [
+          "Cheng C.Y.",
+          "Krishnakumar V.",
+          "Chan A.P.",
+          "Thibaud-Nissen F.",
+          "Schobel S.",
+          "Town C.D."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "27862469"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1111/tpj.13415"
+          }
+        ],
+        "title": "Araport11: a complete reannotation of the Arabidopsis thaliana reference genome.",
+        "publicationDate": "2017",
+        "journal": "Plant J.",
+        "firstPage": "789",
+        "lastPage": "804",
+        "volume": "89"
+      },
+      "referencePositions": [
+        "GENOME REANNOTATION"
+      ],
+      "referenceComments": [
+        {
+          "value": "cv. Columbia",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 4,
+      "citation": {
+        "id": "14593172",
+        "citationType": "journal article",
+        "authors": [
+          "Yamada K.",
+          "Lim J.",
+          "Dale J.M.",
+          "Chen H.",
+          "Shinn P.",
+          "Palm C.J.",
+          "Southwick A.M.",
+          "Wu H.C.",
+          "Kim C.J.",
+          "Nguyen M.",
+          "Pham P.K.",
+          "Cheuk R.F.",
+          "Karlin-Newmann G.",
+          "Liu S.X.",
+          "Lam B.",
+          "Sakano H.",
+          "Wu T.",
+          "Yu G.",
+          "Miranda M.",
+          "Quach H.L.",
+          "Tripp M.",
+          "Chang C.H.",
+          "Lee J.M.",
+          "Toriumi M.J.",
+          "Chan M.M.",
+          "Tang C.C.",
+          "Onodera C.S.",
+          "Deng J.M.",
+          "Akiyama K.",
+          "Ansari Y.",
+          "Arakawa T.",
+          "Banh J.",
+          "Banno F.",
+          "Bowser L.",
+          "Brooks S.Y.",
+          "Carninci P.",
+          "Chao Q.",
+          "Choy N.",
+          "Enju A.",
+          "Goldsmith A.D.",
+          "Gurjal M.",
+          "Hansen N.F.",
+          "Hayashizaki Y.",
+          "Johnson-Hopson C.",
+          "Hsuan V.W.",
+          "Iida K.",
+          "Karnes M.",
+          "Khan S.",
+          "Koesema E.",
+          "Ishida J.",
+          "Jiang P.X.",
+          "Jones T.",
+          "Kawai J.",
+          "Kamiya A.",
+          "Meyers C.",
+          "Nakajima M.",
+          "Narusaka M.",
+          "Seki M.",
+          "Sakurai T.",
+          "Satou M.",
+          "Tamse R.",
+          "Vaysberg M.",
+          "Wallender E.K.",
+          "Wong C.",
+          "Yamamura Y.",
+          "Yuan S.",
+          "Shinozaki K.",
+          "Davis R.W.",
+          "Theologis A.",
+          "Ecker J.R."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "14593172"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1126/science.1088305"
+          }
+        ],
+        "title": "Empirical analysis of transcriptional activity in the Arabidopsis genome.",
+        "publicationDate": "2003",
+        "journal": "Science",
+        "firstPage": "842",
+        "lastPage": "846",
+        "volume": "302"
+      },
+      "referencePositions": [
+        "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]"
+      ],
+      "referenceComments": [
+        {
+          "value": "cv. Columbia",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 5,
+      "citation": {
+        "id": "15310842",
+        "citationType": "journal article",
+        "authors": [
+          "Mockler T.C.",
+          "Yu X.",
+          "Shalitin D.",
+          "Parikh D.",
+          "Michael T.P.",
+          "Liou J.",
+          "Huang J.",
+          "Smith Z.",
+          "Alonso J.M.",
+          "Ecker J.R.",
+          "Chory J.",
+          "Lin C."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "15310842"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1073/pnas.0404552101"
+          }
+        ],
+        "title": "Regulation of flowering time in Arabidopsis by K homology domain proteins.",
+        "publicationDate": "2004",
+        "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+        "firstPage": "12759",
+        "lastPage": "12764",
+        "volume": "101"
+      },
+      "referencePositions": [
+        "FUNCTION",
+        "DISRUPTION PHENOTYPE",
+        "SUBCELLULAR LOCATION"
+      ],
+      "referenceComments": [
+        {
+          "value": "cv. Columbia",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 6,
+      "citation": {
+        "id": "16096981",
+        "citationType": "journal article",
+        "authors": [
+          "Quesada V.",
+          "Dean C.",
+          "Simpson G.G."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "16096981"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1387/ijdb.051995vq"
+          }
+        ],
+        "title": "Regulated RNA processing in the control of Arabidopsis flowering.",
+        "publicationDate": "2005",
+        "journal": "Int. J. Dev. Biol.",
+        "firstPage": "773",
+        "lastPage": "780",
+        "volume": "49"
+      },
+      "referencePositions": [
+        "REVIEW"
+      ]
+    },
+    {
+      "referenceNumber": 7,
+      "citation": {
+        "id": "15778459",
+        "citationType": "journal article",
+        "authors": [
+          "Hecht V.",
+          "Foucher F.",
+          "Ferrandiz C.",
+          "Macknight R.",
+          "Navarro C.",
+          "Morin J.",
+          "Vardy M.E.",
+          "Ellis N.",
+          "Beltran J.P.",
+          "Rameau C.",
+          "Weller J.L."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "15778459"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1104/pp.104.057018"
+          }
+        ],
+        "title": "Conservation of Arabidopsis flowering genes in model legumes.",
+        "publicationDate": "2005",
+        "journal": "Plant Physiol.",
+        "firstPage": "1420",
+        "lastPage": "1434",
+        "volume": "137"
+      },
+      "referencePositions": [
+        "GENE FAMILY",
+        "REVIEW"
+      ]
+    },
+    {
+      "referenceNumber": 8,
+      "citation": {
+        "id": "19576878",
+        "citationType": "journal article",
+        "authors": [
+          "Ripoll J.J.",
+          "Rodriguez-Cazorla E.",
+          "Gonzalez-Reig S.",
+          "Andujar A.",
+          "Alonso-Cantabrana H.",
+          "Perez-Amador M.A.",
+          "Carbonell J.",
+          "Martinez-Laborda A.",
+          "Vera A."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "19576878"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1016/j.ydbio.2009.06.035"
+          }
+        ],
+        "title": "Antagonistic interactions between Arabidopsis K-homology domain genes uncover PEPPER as a positive regulator of the central floral repressor FLOWERING LOCUS C.",
+        "publicationDate": "2009",
+        "journal": "Dev. Biol.",
+        "firstPage": "251",
+        "lastPage": "262",
+        "volume": "333"
+      },
+      "referencePositions": [
+        "FUNCTION",
+        "DISRUPTION PHENOTYPE"
+      ],
+      "referenceComments": [
+        {
+          "value": "cv. Columbia",
+          "type": "STRAIN"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 9,
+      "citation": {
+        "id": "22960247",
+        "citationType": "journal article",
+        "authors": [
+          "Lee J.H.",
+          "Kim J.J.",
+          "Kim S.H.",
+          "Cho H.J.",
+          "Kim J.",
+          "Ahn J.H."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "22960247"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1093/pcp/pcs123"
+          }
+        ],
+        "title": "The E3 ubiquitin ligase HOS1 regulates low ambient temperature-responsive flowering in Arabidopsis thaliana.",
+        "publicationDate": "2012",
+        "journal": "Plant Cell Physiol.",
+        "firstPage": "1802",
+        "lastPage": "1814",
+        "volume": "53"
+      },
+      "referencePositions": [
+        "INTERACTION WITH HOS1"
+      ]
+    },
+    {
+      "referenceNumber": 10,
+      "citation": {
+        "id": "25658099",
+        "citationType": "journal article",
+        "authors": [
+          "Rodriguez-Cazorla E.",
+          "Ripoll J.J.",
+          "Andujar A.",
+          "Bailey L.J.",
+          "Martinez-Laborda A.",
+          "Yanofsky M.F.",
+          "Vera A."
+        ],
+        "citationCrossReferences": [
+          {
+            "database": "PubMed",
+            "id": "25658099"
+          },
+          {
+            "database": "DOI",
+            "id": "10.1371/journal.pgen.1004983"
+          }
+        ],
+        "title": "K-homology nuclear ribonucleoproteins regulate floral organ identity and determinacy in arabidopsis.",
+        "publicationDate": "2015",
+        "journal": "PLoS Genet.",
+        "firstPage": "E1004983",
+        "lastPage": "E1004983",
+        "volume": "11"
+      },
+      "referencePositions": [
+        "INTERACTION WITH HUA1 AND HEN4"
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "EMBL",
+      "id": "AY849998",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAX51268.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY849999",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAX51269.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AC011437",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAF04909.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "CP002686",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AEE74106.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "CP002686",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "ANM63699.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "Genomic_DNA"
+        }
+      ]
+    },
+    {
+      "database": "EMBL",
+      "id": "AY070475",
+      "properties": [
+        {
+          "key": "ProteinId",
+          "value": "AAL49941.1"
+        },
+        {
+          "key": "Status",
+          "value": "-"
+        },
+        {
+          "key": "MoleculeType",
+          "value": "mRNA"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_001325772.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_001337535.1"
+        }
+      ]
+    },
+    {
+      "database": "RefSeq",
+      "id": "NP_187112.1",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "NM_111333.5"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "FunCoup",
+      "id": "Q9SR13",
+      "properties": [
+        {
+          "key": "Number of interactors",
+          "value": "3051"
+        }
+      ]
+    },
+    {
+      "database": "STRING",
+      "id": "3702.Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "iPTMnet",
+      "id": "Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PaxDb",
+      "id": "3702-Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "ProMEX",
+      "id": "Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "ProteomicsDB",
+      "id": "230625",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "819619",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "ath:AT3G04610",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Araport",
+      "id": "AT3G04610",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "TAIR",
+      "id": "AT3G04610",
+      "properties": [
+        {
+          "key": "GeneName",
+          "value": "FLK"
+        }
+      ]
+    },
+    {
+      "database": "eggNOG",
+      "id": "KOG2190",
+      "properties": [
+        {
+          "key": "ToxonomicScope",
+          "value": "Eukaryota"
+        }
+      ]
+    },
+    {
+      "database": "HOGENOM",
+      "id": "CLU_034604_1_1_1",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "InParanoid",
+      "id": "Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "PhylomeDB",
+      "id": "Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "CD-CODE",
+      "id": "4299E36E",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Nucleolus"
+        }
+      ]
+    },
+    {
+      "database": "PRO",
+      "id": "PR:Q9SR13",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000006548",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Chromosome 3"
+        }
+      ]
+    },
+    {
+      "database": "ExpressionAtlas",
+      "id": "Q9SR13",
+      "properties": [
+        {
+          "key": "ExpressionPatterns",
+          "value": "baseline and differential"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005737",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:cytoplasm"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:UniProtKB"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "15310842"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005634",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:nucleus"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IDA:TAIR"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000314",
+          "source": "PubMed",
+          "id": "15310842"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0003729",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:mRNA binding"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006351",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:DNA-templated transcription"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-KW"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0009911",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:positive regulation of flower development"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IMP:TAIR"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000315",
+          "source": "PubMed",
+          "id": "15310842"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006396",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:RNA processing"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IBA:GO_Central"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd22461",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH-I_PEPPER_like_rpt3"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd22459",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH-I_PEPPER_rpt1_like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd22460",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH-I_PEPPER_rpt2_like"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.30.310.210:FF:000002",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH domain-containing protein"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "3.30.1370.10:FF:000127",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "RNA-binding KH domain-containing protein"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.30.310.210",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "-"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.30.1370.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "K Homology domain, type 1"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR004087",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH_dom"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR004088",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH_dom_type_1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR036612",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH_dom_type_1_sf"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR10288",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH DOMAIN CONTAINING RNA BINDING PROTEIN"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF00013",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH_1"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "database": "SMART",
+      "id": "SM00322",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF54791",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Eukaryotic type KH-domain (KH-domain type I)"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS50084",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "KH_TYPE_1"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "3"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MAEAEDQQNFVAHNGDQVPDQGSDELHNGLPYQVHDETLVHQPYEVEDPILEPQQYEVPDPTLEPQQYEVPDQTLEPQQYEVDDQLEYHQYQLQDQANEDVQDHSQDDLQYQPQNQEQFQLQDEAHDQAQYQAQGDVQDHNGDEVQDKVEDEEGIPEHLESLQKSEPEEDATVGGEEKRWPGWPGETVFRMLVPAQKVGSIIGRKGDVIKKIVEETRARIKILDGPPGTTERAVMVSGKEEPESSLPPSMDGLLRVHMRIVDGLDGEASQAPPPSKVSTRLLVPASQAGSLIGKQGGTVKAIQEASACIVRVLGSEDLPVFALQDDRVVEVVGEPTSVHRALELIASHLRKFLVDRSIIPFFENQMQKPTRQMDHMPPPHQSWGPPQGHAPSVGGGGYGHNPPPYMQPPPRHDSYYPPPEMRQPPMEKQPHQGISAYGREPPMNVHVSSAPPMVAQQVTQQMQIPLSYADAVIGTSGSNISYTRRLSGATVTIQETRGVPGEMTVEVSGTGSQVQTAVQLIQNFMAEAGAPAPAQPQTVAPEQQGYNPYATHGSVYAAAPTNPPGGYATDYSSGYGY",
+    "length": 577,
+    "molWeight": 63404,
+    "crc64": "F0473B4F57D239A7",
+    "md5": "BE2A23A1F8D03B7F797D9D6DBD5D550A"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "FUNCTION": 1,
+      "SUBUNIT": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "DISRUPTION PHENOTYPE": 1
+    },
+    "countByFeatureType": {
+      "Chain": 1,
+      "Domain": 3,
+      "Region": 3,
+      "Sequence conflict": 1
+    },
+    "uniParcId": "UPI000009E125"
+  }
+}

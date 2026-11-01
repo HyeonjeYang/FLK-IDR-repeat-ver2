@@ -1,0 +1,77 @@
+target	lineage	compara_species	candidate_protein	homology_type	target_identity_percent	length	kh1_start_1based	kh1_fraction_aligned	passed_qc	decision
+Amborella trichopoda	ANA grade	amborella_trichopoda	ERN01403	ortholog_one2one	50.9356	481.0	66.0	1.0	False	pre-KH1 region below 75 aa
+Nymphaea colorata	ANA grade	nymphaea_colorata_gca008831285v2rs	XP_031489330.1	ortholog_one2many	56.8182	440.0	46.0	1.0	False	pre-KH1 region below 75 aa
+Nymphaea colorata	ANA grade	nymphaea_colorata_gca008831285v2rs	XP_031474053.1	ortholog_one2many	58.5034	441.0	48.0	1.0	False	pre-KH1 region below 75 aa
+Cinnamomum micranthum f. kanehirae	Magnoliids								False	species absent
+Magnolia sinica	Magnoliids								False	species absent
+Spirodela polyrhiza	Monocots								False	species absent
+Dioscorea cayenensis subsp. rotundata	Monocots								False	species absent
+Asparagus officinalis	Monocots	asparagus_officinalis	ONK76485	ortholog_one2many	55.4348	368.0	68.0	0.8088235294117647	False	pre-KH1 region below 75 aa
+Asparagus officinalis	Monocots	asparagus_officinalis	ONK64423	ortholog_one2many	54.3033	488.0			False	nonstandard residue
+Phalaenopsis equestris	Monocots								False	species absent
+Elaeis guineensis	Monocots								False	species absent
+Musa acuminata AAA Group	Monocots	musa_acuminata	Ma05_p03040.1	ortholog_one2many	57.4074	432.0	46.0	1.0	False	pre-KH1 region below 75 aa
+Musa acuminata AAA Group	Monocots	musa_acuminata	Ma07_p01610.1	ortholog_one2many	58.6364	440.0	46.0	1.0	False	pre-KH1 region below 75 aa
+Ananas comosus	Monocots	ananas_comosus	Aco017405.1.mrna1	ortholog_one2one	47.1326	558.0	98.0	0.8970588235294118	True	selected: highest identity among QC-passing candidates
+Brachypodium distachyon	Monocots	brachypodium_distachyon	PNT62404	ortholog_one2many	46.1101	527.0	125.0	1.0	True	eligible
+Brachypodium distachyon	Monocots	brachypodium_distachyon	KQJ96694	ortholog_one2many	25.5537	587.0	61.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Brachypodium distachyon	Monocots	brachypodium_distachyon	KQK14102	ortholog_one2many	48.8417	518.0	113.0	1.0	True	selected: highest identity among QC-passing candidates
+Hordeum vulgare subsp. vulgare	Monocots	hordeum_vulgare	HORVU.MOREX.r3.5HG0434160.1	ortholog_one2many	47.1154	520.0	119.0	1.0	True	eligible
+Hordeum vulgare subsp. vulgare	Monocots	hordeum_vulgare	HORVU.MOREX.r3.4HG0340920.1	ortholog_one2many	49.4141	512.0	112.0	1.0	True	selected: highest identity among QC-passing candidates
+Hordeum vulgare subsp. vulgare	Monocots	hordeum_vulgare	HORVU.MOREX.r3.1HG0037620.1	ortholog_one2many	28.3806	599.0	65.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS1D02G134700.1	ortholog_one2many	27.8333	600.0	65.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS5A02G059500.1	ortholog_one2many	46.7308	520.0	119.0	1.0	True	eligible
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS4B02G069700.1	ortholog_one2many	49.9022	511.0	112.0	1.0	True	selected: highest identity among QC-passing candidates
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS1A02G136600.1	ortholog_one2many	28.0467	599.0	65.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS4D02G068400.1	ortholog_one2many	49.0272	514.0	113.0	1.0	True	eligible
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS5D02G071000.1	ortholog_one2many	47.0135	519.0	118.0	1.0	True	eligible
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS1B02G155000.1	ortholog_one2many	27.7129	599.0	65.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS4A02G245800.1	ortholog_one2many	48.0	525.0	113.0	1.0	True	eligible
+Triticum aestivum	Monocots	triticum_aestivum	TraesCS5B02G066800.1	ortholog_one2many	46.9231	520.0	119.0	1.0	True	eligible
+Zea mays	Monocots	zea_mays	Zm00001eb353770_P002	ortholog_one2many	19.8895	543.0	245.0	0.9705882352941176	True	eligible
+Zea mays	Monocots	zea_mays	Zm00001eb223080_P002	ortholog_one2many	28.2759	580.0	54.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Zea mays	Monocots	zea_mays	Zm00001eb030980_P003	ortholog_one2many	47.8346	508.0	106.0	1.0	True	selected: highest identity among QC-passing candidates
+Zea mays	Monocots	zea_mays	Zm00001eb218890_P001	ortholog_one2many	46.4896	527.0	120.0	1.0	True	eligible
+Sorghum bicolor	Monocots	sorghum_bicolor	OQU91315	ortholog_one2many	42.1811	486.0	176.0	1.0	False	missing start M
+Sorghum bicolor	Monocots	sorghum_bicolor	EER94248	ortholog_one2many	28.2313	588.0	54.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Sorghum bicolor	Monocots	sorghum_bicolor	EES16283	ortholog_one2many	48.5265	509.0	106.0	1.0	True	selected: highest identity among QC-passing candidates
+Setaria italica	Monocots	setaria_italica	KQL17063	ortholog_one2many	48.4496	516.0	114.0	1.0	True	selected: highest identity among QC-passing candidates
+Setaria italica	Monocots	setaria_italica	KQK89186	ortholog_one2many	28.2794	587.0	54.0	0.9852941176470589	False	pre-KH1 region below 75 aa
+Setaria italica	Monocots	setaria_italica	KQK88032	ortholog_one2many	47.8178	527.0	118.0	1.0	True	eligible
+Papaver somniferum	Early-diverging eudicots	papaver_somniferum	RZC62426	ortholog_one2one	61.2717	346.0	44.0	0.5294117647058824	False	length outside 350-750; KH1 coverage below 0.8; pre-KH1 region below 75 aa
+Nelumbo nucifera	Early-diverging eudicots								False	species absent
+Beta vulgaris subsp. vulgaris	Caryophyllales	beta_vulgaris	KMT13450	ortholog_one2one	56.81	558.0	150.0	1.0	True	selected: highest identity among QC-passing candidates
+Chenopodium quinoa	Caryophyllales	chenopodium_quinoa	AUR62001059-RA:cds	ortholog_one2one	57.0652	552.0	149.0	1.0	True	selected: highest identity among QC-passing candidates
+Vitis vinifera	Superrosids	vitis_vinifera	Vitis14g00794.t01.CDS	ortholog_one2one	71.7195	442.0	47.0	1.0	False	pre-KH1 region below 75 aa
+Glycine max	Rosids (fabids)	glycine_max	KRH68752	ortholog_one2many	68.8488	443.0	43.0	1.0	False	pre-KH1 region below 75 aa
+Glycine max	Rosids (fabids)	glycine_max	KRG97000	ortholog_one2many	68.8341	446.0	46.0	1.0	False	pre-KH1 region below 75 aa
+Medicago truncatula	Rosids (fabids)	medicago_truncatula	RHN49419.1	ortholog_one2one	59.6078	510.0	114.0	1.0	True	selected: highest identity among QC-passing candidates
+Cucumis sativus	Rosids (fabids)	cucumis_sativus	KGN60787	ortholog_one2one	64.4401	509.0	110.0	1.0	True	selected: highest identity among QC-passing candidates
+Populus trichocarpa	Rosids (fabids)	populus_trichocarpa	Potri.013G043000.1.v4.1	ortholog_one2many	62.9981	527.0	131.0	1.0	True	selected: highest identity among QC-passing candidates
+Populus trichocarpa	Rosids (fabids)	populus_trichocarpa	Potri.005G056100.1.v4.1	ortholog_one2many	62.5709	529.0	133.0	1.0	True	eligible
+Juglans regia	Rosids (fabids)	juglans_regia	cds.Jr08_15470_p1	ortholog_one2one	68.5466	461.0	65.0	1.0	False	pre-KH1 region below 75 aa
+Malus domestica	Rosids (fabids)	malus_domestica_golden	mRNA:MD04G0195700	ortholog_one2many	53.4921	630.0	228.0	1.0	True	selected: highest identity among QC-passing candidates
+Malus domestica	Rosids (fabids)	malus_domestica_golden	mRNA:MD12G0204500	ortholog_one2many	51.932	647.0	248.0	1.0	True	eligible
+Theobroma cacao	Rosids (malvids)	theobroma_cacao	EOY11034	ortholog_one2one	66.9339	499.0	102.0	1.0	True	selected: highest identity among QC-passing candidates
+Gossypium raimondii	Rosids (malvids)	gossypium_raimondii_gca025698545v1rs	XP_012476679.1	ortholog_one2many	65.8103	506.0	108.0	1.0	True	selected: highest identity among QC-passing candidates
+Gossypium raimondii	Rosids (malvids)	gossypium_raimondii_gca025698545v1rs	XP_012492805.1	ortholog_one2many	60.6679	539.0	150.0	1.0	True	eligible
+Citrus sinensis	Rosids (malvids)	citrus_clementina	ESR37218	ortholog_one2one	65.4511	521.0	129.0	1.0	True	selected: highest identity among QC-passing candidates
+Eucalyptus grandis	Rosids (malvids)	eucalyptus_grandis	KCW61577	ortholog_one2many	63.5438	491.0	92.0	1.0	True	selected: highest identity among QC-passing candidates
+Eucalyptus grandis	Rosids (malvids)	eucalyptus_grandis	KCW44977	ortholog_one2many	76.25	160.0	43.0	0.6029411764705882	False	length outside 350-750; KH1 coverage below 0.8; pre-KH1 region below 75 aa
+Eucalyptus grandis	Rosids (malvids)	eucalyptus_grandis	KCW44976	ortholog_one2many	62.4113	141.0	16.0	0.6911764705882353	False	missing start M; length outside 350-750; KH1 coverage below 0.8; pre-KH1 region below 75 aa
+Carica papaya	Rosids (malvids)								False	species absent
+Tarenaya hassleriana	Rosids (malvids)								False	species absent
+Solanum lycopersicum	Asterids	solanum_lycopersicum_gca000188115v5cm	CDS-Solyc01g097010.3.1	ortholog_one2one	68.661	351.0	44.0	0.5	False	KH1 coverage below 0.8; pre-KH1 region below 75 aa
+Nicotiana tabacum	Asterids								False	species absent
+Coffea arabica	Asterids								False	species absent
+Olea europaea var. sylvestris	Asterids	olea_europaea	OE9A113194C1	ortholog_one2many	53.4392	567.0	171.0	1.0	True	eligible
+Olea europaea var. sylvestris	Asterids	olea_europaea	OE9A092828C3	ortholog_one2many	61.5226	486.0	89.0	1.0	True	selected: highest identity among QC-passing candidates
+Olea europaea var. sylvestris	Asterids	olea_europaea	OE9A003343C1	ortholog_one2many	56.8182	484.0	114.0	0.8970588235294118	True	eligible
+Olea europaea var. sylvestris	Asterids	olea_europaea	OE9A029176C1	ortholog_one2many	62.0619	485.0			False	nonstandard residue
+Daucus carota subsp. sativus	Asterids								False	species absent
+Helianthus annuus	Asterids								False	species absent
+Lactuca sativa	Asterids	lactuca_sativa_gca002870075v4gb	KAJ0209172.1	ortholog_one2one	58.2485	491.0	112.0	1.0	True	selected: highest identity among QC-passing candidates
+Aethionema arabicum	Brassicaceae								False	species absent
+Schrenkiella parvula	Brassicaceae								False	species absent
+Brassica oleracea var. oleracea	Brassicaceae	brassica_oleracea	Bo5g148050.1	ortholog_one2many	86.4706	510.0	125.0	1.0	True	selected: highest identity among QC-passing candidates
+Brassica oleracea var. oleracea	Brassicaceae	brassica_oleracea	Bo3g058470.1	ortholog_one2many	74.4292	219.0	169.0	0.7205882352941176	False	length outside 350-750; KH1 coverage below 0.8

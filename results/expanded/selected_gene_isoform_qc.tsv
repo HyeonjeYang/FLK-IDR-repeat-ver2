@@ -1,0 +1,76 @@
+species	gene_id	accession	is_initial_representative	protein_length	pre_KH1_length	KH1_fraction_aligned	passes_repeat_region_qc	qc_issues
+Amborella trichopoda	18429485	XP_088717630.1	True	292	142	0.6764705882352942	False	length_outside_350_750;KH1_coverage_below_0.8
+Amborella trichopoda	18429485	XP_088717631.1	False	291	141	0.6764705882352942	False	length_outside_350_750;KH1_coverage_below_0.8
+Amborella trichopoda	18429485	XP_006838834.1	False	481	65	1.0	False	pre_KH1_below_75_aa
+Amborella trichopoda	18429485	XP_011621590.1	False	480	65	1.0	False	pre_KH1_below_75_aa
+Ananas comosus	109715271	XP_020095789.1	True	488	97	1.0	True	
+Asparagus officinalis	109834869	XP_020258475.1	True	489	97	0.9705882352941176	True	
+Beta vulgaris subsp. vulgaris	104891110	XP_010675060.1	True	558	149	1.0	True	
+Brachypodium distachyon	100821573	XP_003562255.1	True	518	112	1.0	True	
+Brassica oleracea var. oleracea	106293793	XP_013584889.1	True	510	124	1.0	True	
+Carica papaya	110825450	XP_088078000.1	True	493	94	1.0	True	
+Carica papaya	110825450	XP_088078001.1	False	493	94	1.0	True	
+Carica papaya	110825450	XP_088078002.1	False	492	94	1.0	True	
+Chenopodium quinoa	110737134	XP_021773195.1	True	553	148	1.0	True	
+Chenopodium quinoa	110737134	XP_021773196.1	False	552	148	1.0	True	
+Chenopodium quinoa	110737134	XP_021773197.1	False	549	148	1.0	True	
+Citrus sinensis	102628082	XP_006487774.2	True	521	128	1.0	True	
+Citrus sinensis	102628082	XP_006487775.2	False	520	128	1.0	True	
+Citrus sinensis	102628082	XP_052287808.1	False	511	118	1.0	True	
+Coffea arabica	113698848	XP_027074597.1	True	488	50	1.0	False	pre_KH1_below_75_aa
+Coffea arabica	113698848	XP_027074599.1	False	448	50	1.0	False	pre_KH1_below_75_aa
+Cucumis sativus	101206130	XP_004139248.1	True	483	83	1.0	True	
+Cucumis sativus	101206130	XP_011648742.1	False	482	83	1.0	True	
+Cucumis sativus	101206130	XP_031736962.1	False	483	83	1.0	True	
+Daucus carota subsp. sativus	108210082	XP_017236828.1	True	513	121	1.0	True	
+Dioscorea cayenensis subsp. rotundata	120277121	XP_039139804.1	True	449	56	1.0	False	pre_KH1_below_75_aa
+Dioscorea cayenensis subsp. rotundata	120277121	XP_039139805.1	False	448	56	1.0	False	pre_KH1_below_75_aa
+Dioscorea cayenensis subsp. rotundata	120277121	XP_039139806.1	False	438	45	1.0	False	pre_KH1_below_75_aa
+Dioscorea cayenensis subsp. rotundata	120277121	XP_039139807.1	False	438	45	1.0	False	pre_KH1_below_75_aa
+Elaeis guineensis	105032648	XP_010905450.1	True	440	45	1.0	False	pre_KH1_below_75_aa
+Eucalyptus grandis	104415417	XP_010024999.2	True	491	91	1.0	True	
+Glycine max	100808237	XP_003554712.1	True	446	45	1.0	False	pre_KH1_below_75_aa
+Glycine max	100808237	XP_014627451.1	False	446	45	1.0	False	pre_KH1_below_75_aa
+Gossypium raimondii	105804659	XP_012492805.1	True	539	149	1.0	True	
+Gossypium raimondii	105804659	XP_012492807.1	False	538	149	1.0	True	
+Helianthus annuus	110945110	XP_022042441.1	True	476	75	1.0	True	
+Hordeum vulgare subsp. vulgare	123447724	XP_044980298.1	True	590	189	1.0	True	
+Hordeum vulgare subsp. vulgare	123447724	XP_044980300.1	False	527	126	1.0	True	
+Juglans regia	109021136	XP_018859242.1	True	461	64	1.0	False	pre_KH1_below_75_aa
+Lactuca sativa	111901050	XP_023752686.1	True	492	111	1.0	True	
+Lactuca sativa	111901050	XP_023752687.1	False	424	43	1.0	False	pre_KH1_below_75_aa
+Magnolia sinica	131251092	XP_058107585.1	True	446	55	1.0	False	pre_KH1_below_75_aa
+Magnolia sinica	131251092	XP_058107586.1	False	442	55	1.0	False	pre_KH1_below_75_aa
+Magnolia sinica	131251092	XP_058107587.1	False	434	43	1.0	False	pre_KH1_below_75_aa
+Malus domestica	103413993	XP_008350637.2	True	555	155	1.0	True	
+Malus domestica	103413993	XP_008350638.2	False	554	155	1.0	True	
+Medicago truncatula	25499691	XP_013450538.2	True	442	45	1.0	False	pre_KH1_below_75_aa
+Medicago truncatula	25499691	XP_024627026.1	False	442	45	1.0	False	pre_KH1_below_75_aa
+Musa acuminata AAA Group	103983808	XP_064963969.1	True	432	45	1.0	False	pre_KH1_below_75_aa
+Musa acuminata AAA Group	103983808	XP_064963968.1	False	422	45	1.0	False	pre_KH1_below_75_aa
+Nelumbo nucifera	104612405	XP_010278104.2	True	446	46	1.0	False	pre_KH1_below_75_aa
+Nicotiana tabacum	107785621	XP_016462448.2	True	511	96	1.0	True	
+Nicotiana tabacum	107785621	XP_075073843.1	False	511	96	1.0	True	
+Nymphaea colorata	116246350	XP_031474053.1	True	441	47	1.0	False	pre_KH1_below_75_aa
+Nymphaea colorata	116246350	XP_031474054.1	False	441	47	1.0	False	pre_KH1_below_75_aa
+Nymphaea colorata	116246350	XP_031474055.1	False	439	47	1.0	False	pre_KH1_below_75_aa
+Olea europaea var. sylvestris	111394836	XP_022876622.1	True	508	76	1.0	True	
+Olea europaea var. sylvestris	111394836	XP_022876623.1	False	508	76	1.0	True	
+Olea europaea var. sylvestris	111394836	XP_022876624.1	False	507	76	1.0	True	
+Olea europaea var. sylvestris	111394836	XP_022876625.1	False	472	76	1.0	True	
+Papaver somniferum	113283147	XP_026388096.1	True	457	62	1.0	False	pre_KH1_below_75_aa
+Phalaenopsis equestris	110023310	XP_020578295.1	True	442	45	1.0	False	pre_KH1_below_75_aa
+Populus trichocarpa	18098996	XP_006382821.3	True	529	132	1.0	True	
+Populus trichocarpa	18098996	XP_024457377.2	False	528	132	1.0	True	
+Setaria italica	101773775	XP_004982386.1	True	527	117	1.0	True	
+Solanum lycopersicum	101254532	XP_004230074.1	True	504	104	1.0	True	
+Sorghum bicolor	8062477	XP_002466785.2	True	580	269	1.0	True	
+Tarenaya hassleriana	104821664	XP_010550907.1	True	554	161	1.0	True	
+Tarenaya hassleriana	104821664	XP_010550908.1	False	554	161	1.0	True	
+Tarenaya hassleriana	104821664	XP_010550910.1	False	553	161	1.0	True	
+Theobroma cacao	18600160	XP_007030532.3	True	499	101	1.0	True	
+Theobroma cacao	18600160	XP_017977374.2	False	498	101	1.0	True	
+Triticum aestivum	123110499	XP_044386970.1	True	640	238	1.0	True	
+Vitis vinifera	100242733	XP_010660122.1	True	442	46	1.0	False	pre_KH1_below_75_aa
+Zea mays	100285239	NP_001359130.1	True	527	119	1.0	True	
+Zea mays	100285239	XP_020408993.1	False	527	119	1.0	True	

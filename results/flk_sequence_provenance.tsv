@@ -1,0 +1,2 @@
+accession	protein_name	organism	gene	locus	length_aa	reviewed	source	retrieval_audit_date	sequence_sha256_uppercase
+Q9SR13	Flowering locus K homology domain	Arabidopsis thaliana	FLK	AT3G04610	577	True	UniProtKB REST API (rest.uniprot.org), cached full entry	2026-08-25	d40cdb258917cfa7faed0c4a198c5a05a235e946960fd3b68498a438dcaa8f21

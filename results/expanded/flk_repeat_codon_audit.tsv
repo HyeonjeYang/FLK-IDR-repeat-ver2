@@ -1,0 +1,7 @@
+species	source_accession	copy	aa_start_1based	aa_end_1based	peptide	codons	pro_codons	terminal_residue_codon
+Arabidopsis thaliana	AY070475.1	1	51	58	LEPQQYEV	CTT GAA CCT CAG CAG TAC GAG GTA	CCT	GTA
+Arabidopsis thaliana	AY070475.1	2	63	70	LEPQQYEV	CTT GAA CCA CAG CAG TAC GAG GTA	CCA	GTA
+Arabidopsis thaliana	AY070475.1	3	75	82	LEPQQYEV	CTT GAA CCT CAG CAG TAC GAG GTT	CCT	GTT
+Arabidopsis lyrata	EFH60713.1	1	45	52	LEPQQYEV	CTT GAA CCT CAG CAG TAC GAG GTA	CCT	GTA
+Arabidopsis lyrata	EFH60713.1	2	57	64	LEPQQYEL	CTT GAA CCT CAG CAG TAC GAG CTA	CCT	CTA
+Arabidopsis lyrata	EFH60713.1	3	69	76	LEPQQYEV	CTT GAA CCT CAG CAG TAC GAG GTT	CCT	GTT
