@@ -31,6 +31,22 @@ REFS = {"Q9SR13": "FLK", "Q9SZH4": "PEP", "Q9LZ82": "BTR1",
         "F4KDN0": "HEN4", "Q8W4B1": "RCF3"}
 
 
+def fit_tip_labels(ax, fig, padding_px: float = 16) -> None:
+    """Reserve enough x-axis space for the longest terminal label."""
+    fig.canvas.draw()
+    renderer = fig.canvas.get_renderer()
+    axis_width = ax.get_window_extent(renderer).width
+    left, right = ax.get_xlim()
+    for label in ax.texts:
+        text_width = label.get_window_extent(renderer).width
+        available = axis_width - text_width - padding_px
+        if available <= 0:
+            raise ValueError("Tree label is wider than the plotting area")
+        anchor = label.get_position()[0]
+        right = max(right, left + (anchor - left) * axis_width / available)
+    ax.set_xlim(left, right)
+
+
 def main() -> None:
     audit = pd.read_csv(OUT / "expanded_phylogeny_audit.tsv", sep="\t")
     failed = set(audit.loc[audit.is_initial_selected_gene &
@@ -76,6 +92,7 @@ def main() -> None:
                label=scientific_name("Arabidopsis thaliana") + " KH paralog"),
     ]
     ax.legend(handles=legend, loc="lower left", fontsize=8, frameon=False)
+    fit_tip_labels(ax, fig)
     fig.text(0.02, 0.01,
              "Display pruned from the 102-tip tree. Red indicates repeat-region QC failure, "
              "not phylogenetic exclusion.\n"
